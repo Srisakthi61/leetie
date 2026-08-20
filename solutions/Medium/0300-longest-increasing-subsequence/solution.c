@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence
 // Link     : https://leetcode.com/problems/longest-increasing-subsequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8564000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9028000 (beats 71%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
