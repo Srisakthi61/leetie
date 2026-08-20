@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math, Design, Randomized
 // Link     : https://leetcode.com/problems/insert-delete-getrandom-o1/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8856000 (beats 0%)
+// Runtime  : 49 ms (beats 68%)
+// Memory   : 92252000 (beats 68%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
