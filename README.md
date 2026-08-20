@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 10 Solved
+## Progress Summary: 11 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,4 +15,5 @@
 | max-points-on-a-line | Max Points on a Line | Hard | c | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.c) |
 | maximum-gap | Maximum Gap | Medium | c | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.c) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | c | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.c) |
+| minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | c | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.c) |
 | two-sum | Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
