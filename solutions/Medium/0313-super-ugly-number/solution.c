@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/super-ugly-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8428000 (beats 0%)
+// Runtime  : 97 ms (beats 7%)
+// Memory   : 9536000 (beats 94%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
