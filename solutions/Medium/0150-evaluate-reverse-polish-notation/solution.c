@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Stack
 // Link     : https://leetcode.com/problems/evaluate-reverse-polish-notation/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8648000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 10312000 (beats 61%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
