@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Matrix
 // Link     : https://leetcode.com/problems/dungeon-game/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8572000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 10124000 (beats 7%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
