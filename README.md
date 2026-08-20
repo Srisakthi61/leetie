@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 21 Solved
+## Progress Summary: 22 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -13,6 +13,7 @@
 | dungeon-game | Dungeon Game | Hard | c | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.c) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | c | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.c) |
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | c | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.c) |
+| h-index | H-Index | Medium | c | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.c) |
 | house-robber-ii | House Robber II | Medium | c | [Problem](https://leetcode.com/problems/house-robber-ii/) | [Solution](./solutions/Medium/0213-house-robber-ii/solution.c) |
 | koko-eating-bananas | Koko Eating Bananas | Medium | java | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.java) |
 | kth-largest-element-in-an-array | Kth Largest Element in an Array | Medium | c | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./solutions/Medium/0215-kth-largest-element-in-an-array/solution.c) |
