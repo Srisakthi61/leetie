@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect
 // Link     : https://leetcode.com/problems/kth-largest-element-in-an-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8612000 (beats 0%)
+// Runtime  : 19 ms (beats 59%)
+// Memory   : 16916000 (beats 34%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
