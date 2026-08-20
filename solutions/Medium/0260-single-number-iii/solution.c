@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Bit Manipulation
 // Link     : https://leetcode.com/problems/single-number-iii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8488000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9996000 (beats 68%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
