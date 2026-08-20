@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap
 // Link     : https://leetcode.com/problems/count-of-smaller-numbers-after-self/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8612000 (beats 0%)
+// Runtime  : 111 ms (beats 55%)
+// Memory   : 75896000 (beats 39%)
 // Language : c
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
