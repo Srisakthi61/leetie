@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math
 // Link     : https://leetcode.com/problems/number-of-boomerangs/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8396000 (beats 0%)
+// Runtime  : 353 ms (beats 73%)
+// Memory   : 127868000 (beats 67%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
