@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 41 Solved
+## Progress Summary: 42 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | contains-duplicate-iii | Contains Duplicate III | Hard | c | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.c) |
 | count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | c | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.c) |
 | dungeon-game | Dungeon Game | Hard | c | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.c) |
+| evaluate-division | Evaluate Division | Medium | cpp | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.cpp) |
 | evaluate-reverse-polish-notation | Evaluate Reverse Polish Notation | Medium | c | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.c) |
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | c | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.c) |
 | find-the-duplicate-number | Find the Duplicate Number | Medium | c | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.c) |
