@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 43 Solved
+## Progress Summary: 44 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -39,6 +39,7 @@
 | peeking-iterator | Peeking Iterator | Medium | c | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.c) |
 | perfect-rectangle | Perfect Rectangle | Hard | cpp | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.cpp) |
 | product-of-array-except-self | Product of Array Except Self | Medium | java | [Problem](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./solutions/Medium/0238-product-of-array-except-self/solution.java) |
+| queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | cpp | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.cpp) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | c | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.c) |
 | rotate-function | Rotate Function | Medium | cpp | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.cpp) |
 | search-a-2d-matrix-ii | Search a 2D Matrix II | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.c) |
