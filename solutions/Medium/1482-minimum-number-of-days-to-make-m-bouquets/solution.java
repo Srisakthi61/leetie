@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42688000 (beats 0%)
+// Runtime  : 17 ms (beats 73%)
+// Memory   : 82548000 (beats 67%)
 // Language : java
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
