@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Divide and Conquer, Tree, Matrix
 // Link     : https://leetcode.com/problems/construct-quad-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8672000 (beats 0%)
+// Runtime  : 11 ms (beats 48%)
+// Memory   : 19128000 (beats 42%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
