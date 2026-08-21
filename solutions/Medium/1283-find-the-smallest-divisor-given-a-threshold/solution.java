@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
-// Runtime  : 29 ms (beats 34%)
-// Memory   : 51092000 (beats 55%)
+// Runtime  : 7 ms (beats 83%)
+// Memory   : 50756000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -12,9 +12,9 @@
 
 class Solution {
     boolean possible(int []nums,int threshold,int div){
-        long sum=0;
+        int sum=0;
         for(int i=0; i<nums.length; i++){
-            sum+=(long)Math.ceil((double)nums[i]/div);
+            sum+=(nums[i]+div-1)/div;
         }
         if(sum <= threshold){
             return true;
