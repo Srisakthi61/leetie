@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/frog-jump/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 8404000 (beats 0%)
+// Runtime  : 103 ms (beats 48%)
+// Memory   : 45672000 (beats 60%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
