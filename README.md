@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 56 Solved
+## Progress Summary: 57 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -40,6 +40,7 @@
 | maximal-square | Maximal Square | Medium | c | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.c) |
 | maximum-gap | Maximum Gap | Medium | c | [Problem](https://leetcode.com/problems/maximum-gap/) | [Solution](./solutions/Medium/0164-maximum-gap/solution.c) |
 | maximum-product-subarray | Maximum Product Subarray | Medium | c | [Problem](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./solutions/Medium/0152-maximum-product-subarray/solution.c) |
+| minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.cpp) |
 | minimum-number-of-days-to-make-m-bouquets | Minimum Number of Days to Make m Bouquets | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Solution](./solutions/Medium/1482-minimum-number-of-days-to-make-m-bouquets/solution.java) |
 | minimum-size-subarray-sum | Minimum Size Subarray Sum | Medium | c | [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](./solutions/Medium/0209-minimum-size-subarray-sum/solution.c) |
 | non-overlapping-intervals | Non-overlapping Intervals | Medium | cpp | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.cpp) |
