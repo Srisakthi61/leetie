@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Sorting
 // Link     : https://leetcode.com/problems/find-all-duplicates-in-an-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8244000 (beats 0%)
+// Runtime  : 1 ms (beats 80%)
+// Memory   : 48444000 (beats 82%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
