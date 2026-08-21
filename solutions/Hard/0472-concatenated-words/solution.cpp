@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, String, Dynamic Programming, Depth-First Search, Trie, Sorting
 // Link     : https://leetcode.com/problems/concatenated-words/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8644000 (beats 0%)
+// Runtime  : 170 ms (beats 36%)
+// Memory   : 71372000 (beats 27%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
