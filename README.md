@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 56 Solved
+## Progress Summary: 57 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -43,6 +43,7 @@
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | cpp | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.cpp) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | cpp | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.cpp) |
 | perfect-rectangle | Perfect Rectangle | Hard | cpp | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.cpp) |
+| predict-the-winner | Predict the Winner | Medium | cpp | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.cpp) |
 | queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | cpp | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.cpp) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | c | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.c) |
 | reconstruct-original-digits-from-english | Reconstruct Original Digits from English | Medium | cpp | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.cpp) |
