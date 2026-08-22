@@ -1,0 +1,38 @@
+// ──────────────────────────────────────────────────
+// Problem  : 502. IPO
+// Difficulty: Hard
+// Tags     : Array, Greedy, Sorting, Heap (Priority Queue)
+// Link     : https://leetcode.com/problems/ipo/
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8324000 (beats 0%)
+// Language : cpp
+// Copyright: (c) 2026 Srisakthi61. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+class Solution {
+public:
+    int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
+        int n = profits.size();
+        vector<pair<int, int>> projects(n);
+        for (int i = 0; i < n; ++i) {
+            projects[i] = {capital[i], profits[i]};
+        }
+        sort(projects.begin(), projects.end());
+
+        priority_queue<int> maxHeap;
+        int i = 0;
+        for (int j = 0; j < k; ++j) {
+            while (i < n && projects[i].first <= w) {
+                maxHeap.push(projects[i].second);
+                i++;
+            }
+            if (maxHeap.empty()) {
+                break;
+            }
+            w += maxHeap.top();
+            maxHeap.pop();
+        }
+        return w;
+    }
+};
