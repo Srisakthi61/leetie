@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Greedy, Sorting, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/ipo/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8324000 (beats 0%)
+// Runtime  : 71 ms (beats 76%)
+// Memory   : 125256000 (beats 84%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
