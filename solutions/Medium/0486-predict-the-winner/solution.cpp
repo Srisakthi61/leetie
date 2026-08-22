@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Dynamic Programming, Recursion, Minimax, Game Theory, Zero-Sum Game
 // Link     : https://leetcode.com/problems/predict-the-winner/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8312000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 10344000 (beats 10%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
