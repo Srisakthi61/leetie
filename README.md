@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 56 Solved
+## Progress Summary: 57 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,6 +19,7 @@
 | construct-quad-tree | Construct Quad Tree | Medium | cpp | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.cpp) |
 | count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | c | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.c) |
 | evaluate-division | Evaluate Division | Medium | cpp | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.cpp) |
+| find-all-anagrams-in-a-string | Find All Anagrams in a String | Medium | cpp | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.cpp) |
 | find-all-duplicates-in-an-array | Find All Duplicates in an Array | Medium | cpp | [Problem](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](./solutions/Medium/0442-find-all-duplicates-in-an-array/solution.cpp) |
 | find-right-interval | Find Right Interval | Medium | cpp | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.cpp) |
 | find-the-duplicate-number | Find the Duplicate Number | Medium | c | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.c) |
