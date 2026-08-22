@@ -4,7 +4,7 @@
 // Tags     : Two Pointers, String
 // Link     : https://leetcode.com/problems/magical-string/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 7868000 (beats 0%)
+// Memory   : 7860000 (beats 0%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -23,11 +23,11 @@ public:
         int tail = 4;
         int count = 1;
         
-        while (tail < n) {
+        while (tail < n - 1) {
             int nextVal = (s[tail] == '1') ? '2' : '1';
             int len = s[head] - '0';
             
-            for (int i = 0; i < len && tail < n; ++i) {
+            for (int i = 0; i < len && tail < n - 1; ++i) {
                 s[++tail] = nextVal;
                 if (nextVal == '1') {
                     count++;
