@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Backtracking, Bit Manipulation
 // Link     : https://leetcode.com/problems/non-decreasing-subsequences/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8720000 (beats 0%)
+// Runtime  : 25 ms (beats 79%)
+// Memory   : 26440000 (beats 65%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
