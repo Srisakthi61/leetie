@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/relative-ranks/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 8324000 (beats 0%)
+// Runtime  : 5 ms (beats 51%)
+// Memory   : 17348000 (beats 24%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
