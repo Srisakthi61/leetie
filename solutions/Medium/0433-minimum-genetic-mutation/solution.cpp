@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Breadth-First Search, Bidirectional Search
 // Link     : https://leetcode.com/problems/minimum-genetic-mutation/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8548000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9040000 (beats 16%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
