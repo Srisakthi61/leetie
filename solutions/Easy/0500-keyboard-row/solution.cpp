@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, String
 // Link     : https://leetcode.com/problems/keyboard-row/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8720000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9396000 (beats 7%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
