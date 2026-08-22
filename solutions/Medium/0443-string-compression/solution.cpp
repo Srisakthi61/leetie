@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Two Pointers, String
 // Link     : https://leetcode.com/problems/string-compression/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8320000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 13992000 (beats 15%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
