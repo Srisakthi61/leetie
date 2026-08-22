@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Sliding Window
 // Link     : https://leetcode.com/problems/find-all-anagrams-in-a-string/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8144000 (beats 0%)
+// Runtime  : 8 ms (beats 39%)
+// Memory   : 11616000 (beats 37%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
