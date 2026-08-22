@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Search Tree, Binary Tree
 // Link     : https://leetcode.com/problems/serialize-and-deserialize-bst/
-// Runtime  : 4 ms (beats 0%)
-// Memory   : 8232000 (beats 0%)
+// Runtime  : 23 ms (beats 55%)
+// Memory   : 30852000 (beats 42%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
