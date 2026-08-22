@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 56 Solved
+## Progress Summary: 57 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 132-pattern | 132 Pattern | Medium | cpp | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.cpp) |
 | 4sum-ii | 4Sum II | Medium | cpp | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.cpp) |
+| add-strings | Add Strings | Easy | cpp | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.cpp) |
 | arithmetic-slices | Arithmetic Slices | Medium | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.cpp) |
 | arithmetic-slices-ii-subsequence | Arithmetic Slices II - Subsequence | Hard | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.cpp) |
 | battleships-in-a-board | Battleships in a Board | Medium | cpp | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.cpp) |
