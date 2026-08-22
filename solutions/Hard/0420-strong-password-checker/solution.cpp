@@ -4,7 +4,7 @@
 // Tags     : String, Greedy, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/strong-password-checker/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 7636000 (beats 0%)
+// Memory   : 7568000 (beats 0%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -47,7 +47,7 @@ public:
         int deleteCount = n - 20;
         int replace = 0;
         int overLen = n - 20;
-        int l2[3] = {0}; 
+        vector<int> l1, l2;
         
         int i = 0;
         while (i < n) {
@@ -56,31 +56,40 @@ public:
                 length++;
             }
             if (length >= 3) {
-                if (overLen > 0) {
-                    int reduce = min(overLen, length - 2);
-                    length -= reduce;
-                    overLen -= reduce;
-                }
-                l2[length % 3]++;
                 replace += length / 3;
+                if (length % 3 == 0) l1.push_back(length);
+                else if (length % 3 == 1) l2.push_back(length);
             }
             i += length;
         }
 
-        if (overLen > 0 && l2[0] > 0) {
-            int reduce = min(overLen, l2[0] * 1);
-            overLen -= reduce;
-            replace -= reduce / 1;
+        for (int len : l1) {
+            if (overLen > 0 && len >= 3) {
+                int reduce = min(overLen, 1);
+                overLen -= reduce;
+                replace -= reduce;
+            }
         }
-        if (overLen > 0 && l2[1] > 0) {
-            int reduce = min(overLen, l2[1] * 2);
-            overLen -= reduce;
-            replace -= reduce / 2;
+        for (int len : l2) {
+            if (overLen > 1 && len >= 5) {
+                int reduce = min(overLen, 2);
+                overLen -= reduce;
+                replace -= reduce / 2;
+            }
         }
-        if (overLen > 0 && l2[2] > 0) {
-            int reduce = min(overLen, l2[2] * 3);
-            overLen -= reduce;
-            replace -= reduce / 3;
+        for (int i = 0; i < n; ) {
+            int length = 1;
+            while (i + length < n && password[i + length] == password[i]) {
+                length++;
+            }
+            if (length >= 3 && length % 3 == 2) {
+                if (overLen > 2) {
+                    int reduce = min(overLen, 3);
+                    overLen -= reduce;
+                    replace -= reduce / 3;
+                }
+            }
+            i += length;
         }
 
         return deleteCount + max(missingTypes, replace);

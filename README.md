@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 57 Solved
+## Progress Summary: 56 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -36,7 +36,6 @@
 | longest-increasing-subsequence | Longest Increasing Subsequence | Medium | c | [Problem](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./solutions/Medium/0300-longest-increasing-subsequence/solution.c) |
 | majority-element-ii | Majority Element II | Medium | c | [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](./solutions/Medium/0229-majority-element-ii/solution.c) |
 | matchsticks-to-square | Matchsticks to Square | Medium | cpp | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.cpp) |
-| max-points-on-a-line | Max Points on a Line | Hard | c | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.c) |
 | maximal-square | Maximal Square | Medium | c | [Problem](https://leetcode.com/problems/maximal-square/) | [Solution](./solutions/Medium/0221-maximal-square/solution.c) |
 | minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.cpp) |
 | minimum-moves-to-equal-array-elements-ii | Minimum Moves to Equal Array Elements II | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.cpp) |
