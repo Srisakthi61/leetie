@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Binary Search, Prefix Sum, Randomized
 // Link     : https://leetcode.com/problems/random-pick-with-weight/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8672000 (beats 0%)
+// Runtime  : 12 ms (beats 78%)
+// Memory   : 47084000 (beats 74%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
