@@ -17,6 +17,7 @@
 | coin-change-ii | Coin Change II | Medium | cpp | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.cpp) |
 | concatenated-words | Concatenated Words | Hard | cpp | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.cpp) |
 | construct-quad-tree | Construct Quad Tree | Medium | cpp | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.cpp) |
+| contiguous-array | Contiguous Array | Medium | cpp | [Problem](https://leetcode.com/problems/contiguous-array/) | [Solution](./solutions/Medium/0525-contiguous-array/solution.cpp) |
 | continuous-subarray-sum | Continuous Subarray Sum | Medium | cpp | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.cpp) |
 | count-the-repetitions | Count The Repetitions | Hard | cpp | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.cpp) |
 | diagonal-traverse | Diagonal Traverse | Medium | cpp | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.cpp) |
@@ -58,6 +59,5 @@
 | super-washing-machines | Super Washing Machines | Hard | cpp | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.cpp) |
 | target-sum | Target Sum | Medium | cpp | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.cpp) |
 | total-hamming-distance | Total Hamming Distance | Medium | cpp | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.cpp) |
-| trapping-rain-water-ii | Trapping Rain Water II | Hard | cpp | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.cpp) |
 | unique-substrings-in-wraparound-string | Unique Substrings in Wraparound String | Medium | cpp | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.cpp) |
 | validate-ip-address | Validate IP Address | Medium | cpp | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.cpp) |
