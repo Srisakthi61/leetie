@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 57 Solved
+## Progress Summary: 56 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -61,5 +61,4 @@
 | total-hamming-distance | Total Hamming Distance | Medium | cpp | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.cpp) |
 | trapping-rain-water-ii | Trapping Rain Water II | Hard | cpp | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.cpp) |
 | unique-substrings-in-wraparound-string | Unique Substrings in Wraparound String | Medium | cpp | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.cpp) |
-| utf-8-validation | UTF-8 Validation | Medium | cpp | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.cpp) |
 | validate-ip-address | Validate IP Address | Medium | cpp | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.cpp) |
