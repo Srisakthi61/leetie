@@ -10,6 +10,7 @@
 | 132-pattern | 132 Pattern | Medium | cpp | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.cpp) |
 | 4sum-ii | 4Sum II | Medium | cpp | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.cpp) |
 | add-strings | Add Strings | Easy | cpp | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.cpp) |
+| array-nesting | Array Nesting | Medium | cpp | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.cpp) |
 | array-partition | Array Partition | Easy | cpp | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.cpp) |
 | beautiful-arrangement | Beautiful Arrangement | Medium | cpp | [Problem](https://leetcode.com/problems/beautiful-arrangement/) | [Solution](./solutions/Medium/0526-beautiful-arrangement/solution.cpp) |
 | brick-wall | Brick Wall | Medium | cpp | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.cpp) |
@@ -35,7 +36,6 @@
 | minimum-genetic-mutation | Minimum Genetic Mutation | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.cpp) |
 | minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.cpp) |
 | minimum-moves-to-equal-array-elements-ii | Minimum Moves to Equal Array Elements II | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.cpp) |
-| minimum-number-of-arrows-to-burst-balloons | Minimum Number of Arrows to Burst Balloons | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](./solutions/Medium/0452-minimum-number-of-arrows-to-burst-balloons/solution.cpp) |
 | minimum-time-difference | Minimum Time Difference | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.cpp) |
 | non-decreasing-subsequences | Non-decreasing Subsequences | Medium | cpp | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.cpp) |
 | number-of-segments-in-a-string | Number of Segments in a String | Easy | cpp | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.cpp) |
