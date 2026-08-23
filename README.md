@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 54 Solved
+## Progress Summary: 55 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -55,6 +55,7 @@
 | sort-characters-by-frequency | Sort Characters By Frequency | Medium | cpp | [Problem](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](./solutions/Medium/0451-sort-characters-by-frequency/solution.cpp) |
 | string-compression | String Compression | Medium | cpp | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.cpp) |
 | strong-password-checker | Strong Password Checker | Hard | cpp | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.cpp) |
+| subarray-sum-equals-k | Subarray Sum Equals K | Medium | cpp | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.cpp) |
 | super-washing-machines | Super Washing Machines | Hard | cpp | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.cpp) |
 | target-sum | Target Sum | Medium | cpp | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.cpp) |
 | total-hamming-distance | Total Hamming Distance | Medium | cpp | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.cpp) |
