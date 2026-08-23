@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 55 Solved
+## Progress Summary: 56 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -28,6 +28,7 @@
 | ipo | IPO | Hard | cpp | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.cpp) |
 | keyboard-row | Keyboard Row | Easy | cpp | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.cpp) |
 | longest-uncommon-subsequence-ii | Longest Uncommon Subsequence II | Medium | cpp | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.cpp) |
+| longest-word-in-dictionary-through-deleting | Longest Word in Dictionary through Deleting | Medium | cpp | [Problem](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Solution](./solutions/Medium/0524-longest-word-in-dictionary-through-deleting/solution.cpp) |
 | magical-string | Magical String | Medium | cpp | [Problem](https://leetcode.com/problems/magical-string/) | [Solution](./solutions/Medium/0481-magical-string/solution.cpp) |
 | matchsticks-to-square | Matchsticks to Square | Medium | cpp | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.cpp) |
 | minimum-genetic-mutation | Minimum Genetic Mutation | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.cpp) |
