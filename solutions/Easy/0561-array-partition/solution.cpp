@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Greedy, Sorting, Counting Sort
 // Link     : https://leetcode.com/problems/array-partition/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8040000 (beats 0%)
+// Runtime  : 15 ms (beats 33%)
+// Memory   : 32164000 (beats 22%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
