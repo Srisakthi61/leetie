@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/range-addition-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8644000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 15408000 (beats 25%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
