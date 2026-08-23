@@ -9,7 +9,6 @@
 | 132-pattern | 132 Pattern | Medium | cpp | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.cpp) |
 | 4sum-ii | 4Sum II | Medium | cpp | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.cpp) |
 | add-strings | Add Strings | Easy | cpp | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.cpp) |
-| arithmetic-slices | Arithmetic Slices | Medium | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.cpp) |
 | arithmetic-slices-ii-subsequence | Arithmetic Slices II - Subsequence | Hard | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.cpp) |
 | battleships-in-a-board | Battleships in a Board | Medium | cpp | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.cpp) |
 | beautiful-arrangement | Beautiful Arrangement | Medium | cpp | [Problem](https://leetcode.com/problems/beautiful-arrangement/) | [Solution](./solutions/Medium/0526-beautiful-arrangement/solution.cpp) |
@@ -45,6 +44,7 @@
 | pacific-atlantic-water-flow | Pacific Atlantic Water Flow | Medium | cpp | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.cpp) |
 | partition-equal-subset-sum | Partition Equal Subset Sum | Medium | cpp | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.cpp) |
 | predict-the-winner | Predict the Winner | Medium | cpp | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.cpp) |
+| random-pick-with-weight | Random Pick with Weight | Medium | cpp | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.cpp) |
 | random-point-in-non-overlapping-rectangles | Random Point in Non-overlapping Rectangles | Medium | cpp | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.cpp) |
 | reconstruct-original-digits-from-english | Reconstruct Original Digits from English | Medium | cpp | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.cpp) |
 | relative-ranks | Relative Ranks | Easy | cpp | [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](./solutions/Easy/0506-relative-ranks/solution.cpp) |
