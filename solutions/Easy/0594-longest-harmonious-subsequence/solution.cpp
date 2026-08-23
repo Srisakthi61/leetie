@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Sliding Window, Sorting, Counting
 // Link     : https://leetcode.com/problems/longest-harmonious-subsequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8376000 (beats 0%)
+// Runtime  : 41 ms (beats 22%)
+// Memory   : 43856000 (beats 55%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
