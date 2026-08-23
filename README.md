@@ -7,7 +7,6 @@
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 01-matrix | 01 Matrix | Medium | cpp | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.cpp) |
-| 132-pattern | 132 Pattern | Medium | cpp | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.cpp) |
 | add-strings | Add Strings | Easy | cpp | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.cpp) |
 | array-nesting | Array Nesting | Medium | cpp | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.cpp) |
 | array-partition | Array Partition | Easy | cpp | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.cpp) |
@@ -50,6 +49,7 @@
 | reshape-the-matrix | Reshape the Matrix | Easy | cpp | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.cpp) |
 | reverse-pairs | Reverse Pairs | Hard | cpp | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.cpp) |
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | cpp | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.cpp) |
+| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | cpp | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.cpp) |
 | sliding-window-median | Sliding Window Median | Hard | cpp | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.cpp) |
 | sort-characters-by-frequency | Sort Characters By Frequency | Medium | cpp | [Problem](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](./solutions/Medium/0451-sort-characters-by-frequency/solution.cpp) |
 | string-compression | String Compression | Medium | cpp | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.cpp) |
