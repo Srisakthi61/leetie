@@ -51,12 +51,12 @@
 | reverse-pairs | Reverse Pairs | Hard | cpp | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.cpp) |
 | rotate-function | Rotate Function | Medium | cpp | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.cpp) |
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | cpp | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.cpp) |
-| shuffle-an-array | Shuffle an Array | Medium | cpp | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.cpp) |
 | sliding-window-median | Sliding Window Median | Hard | cpp | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.cpp) |
 | sort-characters-by-frequency | Sort Characters By Frequency | Medium | cpp | [Problem](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](./solutions/Medium/0451-sort-characters-by-frequency/solution.cpp) |
 | split-array-largest-sum | Split Array Largest Sum | Hard | cpp | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.cpp) |
 | string-compression | String Compression | Medium | cpp | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.cpp) |
 | strong-password-checker | Strong Password Checker | Hard | cpp | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.cpp) |
+| super-washing-machines | Super Washing Machines | Hard | cpp | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.cpp) |
 | target-sum | Target Sum | Medium | cpp | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.cpp) |
 | total-hamming-distance | Total Hamming Distance | Medium | cpp | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.cpp) |
 | trapping-rain-water-ii | Trapping Rain Water II | Hard | cpp | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.cpp) |
