@@ -34,7 +34,6 @@
 | matchsticks-to-square | Matchsticks to Square | Medium | cpp | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.cpp) |
 | minesweeper | Minesweeper | Medium | cpp | [Problem](https://leetcode.com/problems/minesweeper/) | [Solution](./solutions/Medium/0529-minesweeper/solution.cpp) |
 | minimum-genetic-mutation | Minimum Genetic Mutation | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.cpp) |
-| minimum-moves-to-equal-array-elements | Minimum Moves to Equal Array Elements | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.cpp) |
 | minimum-moves-to-equal-array-elements-ii | Minimum Moves to Equal Array Elements II | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.cpp) |
 | minimum-time-difference | Minimum Time Difference | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.cpp) |
 | non-decreasing-subsequences | Non-decreasing Subsequences | Medium | cpp | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.cpp) |
@@ -48,6 +47,7 @@
 | relative-ranks | Relative Ranks | Easy | cpp | [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](./solutions/Easy/0506-relative-ranks/solution.cpp) |
 | remove-boxes | Remove Boxes | Hard | cpp | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.cpp) |
 | repeated-substring-pattern | Repeated Substring Pattern | Easy | cpp | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.cpp) |
+| reshape-the-matrix | Reshape the Matrix | Easy | cpp | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.cpp) |
 | reverse-pairs | Reverse Pairs | Hard | cpp | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.cpp) |
 | serialize-and-deserialize-bst | Serialize and Deserialize BST | Medium | cpp | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.cpp) |
 | sliding-window-median | Sliding Window Median | Hard | cpp | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.cpp) |
