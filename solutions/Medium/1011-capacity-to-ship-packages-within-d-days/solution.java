@@ -4,7 +4,7 @@
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 // Runtime  : 11 ms (beats 66%)
-// Memory   : 49992000 (beats 88%)
+// Memory   : 50024000 (beats 76%)
 // Language : java
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -12,16 +12,16 @@
 
 class Solution {
     int func(int [] weights,int cap){
-        int days=1;
+        int days_req=1;
         int load=0;
         for(int i=0; i<weights.length; i++){
             load+=weights[i];
             if(load >cap){
-                days++;
+                days_req++;
                 load=weights[i];
             }
         }
-        return days;
+        return days_req;
     }
     public int shipWithinDays(int[] weights, int days) {
         int max=0;
