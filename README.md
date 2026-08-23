@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 54 Solved
+## Progress Summary: 55 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| 01-matrix | 01 Matrix | Medium | cpp | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.cpp) |
 | 132-pattern | 132 Pattern | Medium | cpp | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.cpp) |
 | 4sum-ii | 4Sum II | Medium | cpp | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.cpp) |
 | add-strings | Add Strings | Easy | cpp | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.cpp) |
