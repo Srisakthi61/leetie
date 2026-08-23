@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Prefix Sum
 // Link     : https://leetcode.com/problems/subarray-sum-equals-k/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8292000 (beats 0%)
+// Runtime  : 31 ms (beats 96%)
+// Memory   : 45552000 (beats 39%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
