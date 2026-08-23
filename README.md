@@ -13,7 +13,6 @@
 | beautiful-arrangement | Beautiful Arrangement | Medium | cpp | [Problem](https://leetcode.com/problems/beautiful-arrangement/) | [Solution](./solutions/Medium/0526-beautiful-arrangement/solution.cpp) |
 | brick-wall | Brick Wall | Medium | cpp | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.cpp) |
 | capacity-to-ship-packages-within-d-days | Capacity To Ship Packages Within D Days | Medium | java | [Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Solution](./solutions/Medium/1011-capacity-to-ship-packages-within-d-days/solution.java) |
-| circular-array-loop | Circular Array Loop | Medium | cpp | [Problem](https://leetcode.com/problems/circular-array-loop/) | [Solution](./solutions/Medium/0457-circular-array-loop/solution.cpp) |
 | coin-change-ii | Coin Change II | Medium | cpp | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.cpp) |
 | concatenated-words | Concatenated Words | Hard | cpp | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.cpp) |
 | contiguous-array | Contiguous Array | Medium | cpp | [Problem](https://leetcode.com/problems/contiguous-array/) | [Solution](./solutions/Medium/0525-contiguous-array/solution.cpp) |
@@ -21,6 +20,7 @@
 | count-the-repetitions | Count The Repetitions | Hard | cpp | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.cpp) |
 | diagonal-traverse | Diagonal Traverse | Medium | cpp | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.cpp) |
 | distribute-candies | Distribute Candies | Easy | cpp | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.cpp) |
+| erect-the-fence | Erect the Fence | Hard | cpp | [Problem](https://leetcode.com/problems/erect-the-fence/) | [Solution](./solutions/Hard/0587-erect-the-fence/solution.cpp) |
 | find-all-anagrams-in-a-string | Find All Anagrams in a String | Medium | cpp | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.cpp) |
 | find-the-smallest-divisor-given-a-threshold | Find the Smallest Divisor Given a Threshold | Medium | java | [Problem](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution](./solutions/Medium/1283-find-the-smallest-divisor-given-a-threshold/solution.java) |
 | heaters | Heaters | Medium | cpp | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.cpp) |
