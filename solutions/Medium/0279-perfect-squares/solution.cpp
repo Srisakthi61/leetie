@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
 // Link     : https://leetcode.com/problems/perfect-squares/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7984000 (beats 0%)
+// Runtime  : 42 ms (beats 73%)
+// Memory   : 13188000 (beats 71%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
