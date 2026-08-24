@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Stack
 // Link     : https://leetcode.com/problems/exclusive-time-of-functions/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8488000 (beats 0%)
+// Runtime  : 6 ms (beats 49%)
+// Memory   : 17008000 (beats 97%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
