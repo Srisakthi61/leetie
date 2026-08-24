@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Dynamic Programming, Backtracking
 // Link     : https://leetcode.com/problems/count-numbers-with-unique-digits/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7652000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 7708000 (beats 73%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
