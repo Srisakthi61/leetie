@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Recursion
 // Link     : https://leetcode.com/problems/elimination-game/
-// Runtime  : 6 ms (beats 2%)
-// Memory   : 9720000 (beats 8%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9572000 (beats 80%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
