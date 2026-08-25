@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Dynamic Programming, Combinatorics
 // Link     : https://leetcode.com/problems/poor-pigs/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8132000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 7936000 (beats 31%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
