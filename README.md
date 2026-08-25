@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 163 Solved
+## Progress Summary: 164 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -38,6 +38,7 @@
 | array-partition | 561. Array Partition | Easy | cpp | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.cpp) |
 | bulb-switcher | Bulb Switcher | Medium | cpp | [Problem](https://leetcode.com/problems/bulb-switcher/) | [Solution](./solutions/Medium/0319-bulb-switcher/solution.cpp) |
 | can-i-win | Can I Win | Medium | cpp | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.cpp) |
+| count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | cpp | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.cpp) |
 | strong-password-checker | 420. Strong Password Checker | Hard | cpp | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.cpp) |
 | arithmetic-slices-ii-subsequence | 446. Arithmetic Slices Ii Subsequence | Hard | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.cpp) |
 | count-the-repetitions | 466. Count The Repetitions | Hard | cpp | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.cpp) |
@@ -47,11 +48,11 @@
 | ipo | 502. Ipo | Hard | cpp | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.cpp) |
 | super-washing-machines | 517. Super Washing Machines | Hard | cpp | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.cpp) |
 | remove-boxes | 546. Remove Boxes | Hard | cpp | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.cpp) |
+| distribute-candies | 575. Distribute Candies | Easy | cpp | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.cpp) |
 | erect-the-fence | 587. Erect The Fence | Hard | cpp | [Problem](https://leetcode.com/problems/erect-the-fence/) | [Solution](./solutions/Hard/0587-erect-the-fence/solution.cpp) |
 | can-place-flowers | 605. Can Place Flowers | Easy | cpp | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.cpp) |
-| count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | cpp | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.cpp) |
-| distribute-candies | 575. Distribute Candies | Easy | cpp | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.cpp) |
 | elimination-game | Elimination Game | Medium | cpp | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.cpp) |
+| generate-random-point-in-a-circle | Generate Random Point in a Circle | Medium | cpp | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.cpp) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | cpp | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.cpp) |
 | implement-rand10-using-rand7 | Implement Rand10() Using Rand7() | Medium | cpp | [Problem](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](./solutions/Medium/0470-implement-rand10-using-rand7/solution.cpp) |
 | integer-break | Integer Break | Medium | cpp | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.cpp) |
