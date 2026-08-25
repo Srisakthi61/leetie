@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, String, Simulation, Euclidean Algorithm, Greatest Common Divisor
 // Link     : https://leetcode.com/problems/fraction-addition-and-subtraction/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7784000 (beats 0%)
+// Runtime  : 2 ms (beats 7%)
+// Memory   : 8068000 (beats 71%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
