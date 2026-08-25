@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Geometry, Rejection Sampling, Randomized
 // Link     : https://leetcode.com/problems/generate-random-point-in-a-circle/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8876000 (beats 0%)
+// Runtime  : 15 ms (beats 49%)
+// Memory   : 35124000 (beats 19%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
