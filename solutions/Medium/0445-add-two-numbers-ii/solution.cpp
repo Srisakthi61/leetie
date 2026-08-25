@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Linked List, Math, Stack
 // Link     : https://leetcode.com/problems/add-two-numbers-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8524000 (beats 0%)
+// Runtime  : 2 ms (beats 54%)
+// Memory   : 79552000 (beats 8%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
