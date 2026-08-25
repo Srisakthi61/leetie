@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, String, Simulation
 // Link     : https://leetcode.com/problems/complex-number-multiplication/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7652000 (beats 0%)
+// Runtime  : 2 ms (beats 6%)
+// Memory   : 7956000 (beats 55%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
