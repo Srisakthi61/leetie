@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 184 Solved
+## Progress Summary: 185 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -20,6 +20,7 @@
 | construct-the-rectangle | Construct the Rectangle | Easy | cpp | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.cpp) |
 | count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | cpp | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.cpp) |
 | elimination-game | Elimination Game | Medium | cpp | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.cpp) |
+| evaluate-reverse-polish-notation | 150. Evaluate Reverse Polish Notation | Medium | c | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.c) |
 | fibonacci-number | Fibonacci Number | Easy | cpp | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.cpp) |
 | find-the-closest-palindrome | Find the Closest Palindrome | Hard | cpp | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.cpp) |
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | cpp | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.cpp) |
@@ -52,6 +53,7 @@
 | product-of-array-except-self | 238. Product Of Array Except Self | Medium | java | [Problem](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./solutions/Medium/0238-product-of-array-except-self/solution.java) |
 | random-flip-matrix | Random Flip Matrix | Medium | cpp | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.cpp) |
 | random-pick-index | Random Pick Index | Medium | cpp | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.cpp) |
+| random-pick-with-blacklist | Random Pick with Blacklist | Hard | cpp | [Problem](https://leetcode.com/problems/random-pick-with-blacklist/) | [Solution](./solutions/Hard/0710-random-pick-with-blacklist/solution.cpp) |
 | search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.c) |
 | single-number-iii | 260. Single Number Iii | Medium | c | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.c) |
 | h-index | 274. H Index | Medium | c | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.c) |
@@ -72,7 +74,6 @@
 | string-to-integer-atoi | 8. String To Integer Atoi | Medium | c | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./solutions/Medium/0008-string-to-integer-atoi/solution.c) |
 | 4sum | 18. 4sum | Medium | c | [Problem](https://leetcode.com/problems/4sum/) | [Solution](./solutions/Medium/0018-4sum/solution.c) |
 | max-points-on-a-line | 149. Max Points On A Line | Hard | c | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.c) |
-| evaluate-reverse-polish-notation | 150. Evaluate Reverse Polish Notation | Medium | c | [Problem](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](./solutions/Medium/0150-evaluate-reverse-polish-notation/solution.c) |
 | find-minimum-in-rotated-sorted-array-ii | 154. Find Minimum In Rotated Sorted Array Ii | Hard | c | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.c) |
 | dungeon-game | 174. Dungeon Game | Hard | c | [Problem](https://leetcode.com/problems/dungeon-game/) | [Solution](./solutions/Hard/0174-dungeon-game/solution.c) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
