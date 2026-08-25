@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Dynamic Programming, Minimax, Game Theory
 // Link     : https://leetcode.com/problems/guess-number-higher-or-lower-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8168000 (beats 0%)
+// Runtime  : 40 ms (beats 62%)
+// Memory   : 11088000 (beats 56%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
