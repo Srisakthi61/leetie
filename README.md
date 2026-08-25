@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 179 Solved
+## Progress Summary: 180 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -12,6 +12,7 @@
 | add-two-numbers-ii | Add Two Numbers II | Medium | cpp | [Problem](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./solutions/Medium/0445-add-two-numbers-ii/solution.cpp) |
 | arranging-coins | Arranging Coins | Easy | cpp | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.cpp) |
 | base-7 | Base 7 | Easy | cpp | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.cpp) |
+| beautiful-arrangement-ii | Beautiful Arrangement II | Medium | cpp | [Problem](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Solution](./solutions/Medium/0667-beautiful-arrangement-ii/solution.cpp) |
 | bulb-switcher | Bulb Switcher | Medium | cpp | [Problem](https://leetcode.com/problems/bulb-switcher/) | [Solution](./solutions/Medium/0319-bulb-switcher/solution.cpp) |
 | can-i-win | Can I Win | Medium | cpp | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.cpp) |
 | complex-number-multiplication | Complex Number Multiplication | Medium | cpp | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.cpp) |
