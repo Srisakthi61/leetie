@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Greedy
 // Link     : https://leetcode.com/problems/maximum-swap/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7804000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8012000 (beats 33%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
