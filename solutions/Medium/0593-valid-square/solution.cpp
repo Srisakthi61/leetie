@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Geometry
 // Link     : https://leetcode.com/problems/valid-square/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8760000 (beats 0%)
+// Runtime  : 4 ms (beats 5%)
+// Memory   : 29932000 (beats 24%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
