@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 175 Solved
+## Progress Summary: 176 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -105,6 +105,7 @@
 | 4sum-ii | 454. 4sum Ii | Medium | cpp | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.cpp) |
 | 132-pattern | 456. 132 Pattern | Medium | cpp | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.cpp) |
 | circular-array-loop | 457. Circular Array Loop | Medium | cpp | [Problem](https://leetcode.com/problems/circular-array-loop/) | [Solution](./solutions/Medium/0457-circular-array-loop/solution.cpp) |
+| repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | cpp | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.cpp) |
 | minimum-moves-to-equal-array-elements-ii | 462. Minimum Moves To Equal Array Elements Ii | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.cpp) |
 | count-the-repetitions | 466. Count The Repetitions | Hard | cpp | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.cpp) |
 | unique-substrings-in-wraparound-string | 467. Unique Substrings In Wraparound String | Medium | cpp | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.cpp) |
@@ -176,8 +177,8 @@
 | sum-of-two-integers | Sum of Two Integers | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.cpp) |
 | super-pow | Super Pow | Medium | cpp | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.cpp) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | cpp | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.cpp) |
 | ugly-number | Ugly Number | Easy | cpp | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.cpp) |
 | ugly-number-ii | Ugly Number II | Medium | cpp | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.cpp) |
 | valid-perfect-square | Valid Perfect Square | Easy | cpp | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.cpp) |
+| valid-square | Valid Square | Medium | cpp | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.cpp) |
 | water-and-jug-problem | Water and Jug Problem | Medium | cpp | [Problem](https://leetcode.com/problems/water-and-jug-problem/) | [Solution](./solutions/Medium/0365-water-and-jug-problem/solution.cpp) |
