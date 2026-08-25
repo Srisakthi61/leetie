@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 176 Solved
+## Progress Summary: 177 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -174,6 +174,7 @@
 | find-the-smallest-divisor-given-a-threshold | 1283. Find The Smallest Divisor Given A Threshold | Medium | java | [Problem](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution](./solutions/Medium/1283-find-the-smallest-divisor-given-a-threshold/solution.java) |
 | minimum-number-of-days-to-make-m-bouquets | 1482. Minimum Number Of Days To Make M Bouquets | Medium | java | [Problem](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Solution](./solutions/Medium/1482-minimum-number-of-days-to-make-m-bouquets/solution.java) |
 | kth-missing-positive-number | 1539. Kth Missing Positive Number | Easy | java | [Problem](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution](./solutions/Easy/1539-kth-missing-positive-number/solution.java) |
+| sum-of-square-numbers | Sum of Square Numbers | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.cpp) |
 | sum-of-two-integers | Sum of Two Integers | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.cpp) |
 | super-pow | Super Pow | Medium | cpp | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.cpp) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
