@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math
 // Link     : https://leetcode.com/problems/perfect-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7784000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 7816000 (beats 21%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
