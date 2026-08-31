@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 207 Solved
+## Progress Summary: 208 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -138,6 +138,7 @@
 | largest-triangle-area | Largest Triangle Area | Easy | cpp | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.cpp) |
 | magic-squares-in-grid | Magic Squares In Grid | Medium | cpp | [Problem](https://leetcode.com/problems/magic-squares-in-grid/) | [Solution](./solutions/Medium/0840-magic-squares-in-grid/solution.cpp) |
 | maximum-swap | Maximum Swap | Medium | cpp | [Problem](https://leetcode.com/problems/maximum-swap/) | [Solution](./solutions/Medium/0670-maximum-swap/solution.cpp) |
+| mirror-reflection | Mirror Reflection | Medium | cpp | [Problem](https://leetcode.com/problems/mirror-reflection/) | [Solution](./solutions/Medium/0858-mirror-reflection/solution.cpp) |
 | monotone-increasing-digits | Monotone Increasing Digits | Medium | cpp | [Problem](https://leetcode.com/problems/monotone-increasing-digits/) | [Solution](./solutions/Medium/0738-monotone-increasing-digits/solution.cpp) |
 | new-21-game | New 21 Game | Medium | cpp | [Problem](https://leetcode.com/problems/new-21-game/) | [Solution](./solutions/Medium/0837-new-21-game/solution.cpp) |
 | next-greater-element-iii | Next Greater Element III | Medium | cpp | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.cpp) |
