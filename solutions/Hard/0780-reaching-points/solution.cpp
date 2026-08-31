@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Euclidean Algorithm, Greatest Common Divisor
 // Link     : https://leetcode.com/problems/reaching-points/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7612000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 7768000 (beats 71%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
