@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Bit Manipulation, Recursion
 // Link     : https://leetcode.com/problems/k-th-symbol-in-grammar/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7876000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 7780000 (beats 83%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
