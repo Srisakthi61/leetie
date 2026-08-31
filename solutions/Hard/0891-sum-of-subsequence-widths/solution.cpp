@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, Sorting
 // Link     : https://leetcode.com/problems/sum-of-subsequence-widths/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7956000 (beats 0%)
+// Runtime  : 41 ms (beats 34%)
+// Memory   : 62292000 (beats 35%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
