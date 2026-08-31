@@ -4,7 +4,7 @@
 // Tags     : Hash Table, Math, String, Stack, Recursion
 // Link     : https://leetcode.com/problems/basic-calculator-iv/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 9088000 (beats 0%)
+// Memory   : 9064000 (beats 0%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -16,7 +16,6 @@
 #include <map>
 #include <set>
 #include <sstream>
-#include <list>
 #include <algorithm>
 
 using namespace std;
@@ -123,11 +122,24 @@ public:
             evalMap[evalvars[i]] = evalints[i];
         }
 
-        stringstream ss(expression);
-        string token;
         vector<string> tokens;
-        while (ss >> token) {
-            tokens.push_back(token);
+        string token;
+        for (int i = 0; i < expression.length(); ) {
+            if (expression[i] == ' ') {
+                i++;
+                continue;
+            }
+            if (expression[i] == '(' || expression[i] == ')' || expression[i] == '+' || expression[i] == '-' || expression[i] == '*') {
+                tokens.push_back(string(1, expression[i]));
+                i++;
+            } else {
+                int j = i;
+                while (j < expression.length() && expression[j] != ' ' && expression[j] != '(' && expression[j] != ')' && expression[j] != '+' && expression[j] != '-' && expression[j] != '*') {
+                    j++;
+                }
+                tokens.push_back(expression.substr(i, j - i));
+                i = j;
+            }
         }
 
         vector<Poly> operands;
@@ -156,11 +168,9 @@ public:
                     char op = operators.back(); operators.pop_back();
                     operands.push_back(applyOp(a, b, op));
                 }
-                operators.pop_back(); // remove '('
+                operators.pop_back();
             } else if (t == "+" || t == "-" || t == "*") {
                 char op = t[0];
-                // If it's a unary minus or part of implicit handling, but problem specifies space separation.
-                // However, unary minus usually doesn't appear directly based on constraints ("expression consists of ...").
                 while (!operators.empty() && precedence(operators.back()) >= precedence(op)) {
                     Poly b = operands.back(); operands.pop_back();
                     Poly a = operands.back(); operands.pop_back();
@@ -185,7 +195,6 @@ public:
         }
 
         Poly result = operands.empty() ? Poly(0) : operands.back();
-        
         return result.toList();
     }
 };
