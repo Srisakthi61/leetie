@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, Bit Manipulation, Matrix
 // Link     : https://leetcode.com/problems/transform-to-chessboard/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8220000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 13768000 (beats 19%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
