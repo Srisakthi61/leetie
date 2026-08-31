@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math, Geometry, Matrix
 // Link     : https://leetcode.com/problems/projection-area-of-3d-shapes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8340000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 12952000 (beats 47%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
