@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Dynamic Programming, Probability and Statistics
 // Link     : https://leetcode.com/problems/soup-servings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7956000 (beats 0%)
+// Runtime  : 2 ms (beats 67%)
+// Memory   : 9756000 (beats 84%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
