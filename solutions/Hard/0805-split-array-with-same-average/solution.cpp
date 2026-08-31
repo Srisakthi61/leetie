@@ -4,7 +4,7 @@
 // Tags     : Array, Hash Table, Math, Dynamic Programming, Bit Manipulation, Meet in the Middle, Bitmask
 // Link     : https://leetcode.com/problems/split-array-with-same-average/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 8368000 (beats 0%)
+// Memory   : 8440000 (beats 0%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -15,6 +15,15 @@ public:
     bool splitArraySameAverage(vector<int>& nums) {
         int n = nums.size();
         int sum = accumulate(nums.begin(), nums.end(), 0);
+        
+        bool possible = false;
+        for (int k = 1; k <= n / 2; ++k) {
+            if (sum * k % n == 0) {
+                possible = true;
+                break;
+            }
+        }
+        if (!possible) return false;
         
         for (int &num : nums) {
             num = num * n - sum;
@@ -33,11 +42,8 @@ public:
         }
         
         for (int k = 1; k <= n1; ++k) {
-            if (sum * k % n == 0) {
-                int target = sum * k / n;
-                if (dp[k].count(target)) {
-                    return true;
-                }
+            if (sum * k % n == 0 && dp[k].count(0)) {
+                return true;
             }
         }
         
