@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math, Matrix
 // Link     : https://leetcode.com/problems/magic-squares-in-grid/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8248000 (beats 0%)
+// Runtime  : 3 ms (beats 23%)
+// Memory   : 11472000 (beats 78%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
