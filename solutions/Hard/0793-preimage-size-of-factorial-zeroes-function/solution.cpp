@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Binary Search
 // Link     : https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7948000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 7732000 (beats 74%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
