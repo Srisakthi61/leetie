@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 215 Solved
+## Progress Summary: 216 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -202,6 +202,7 @@
 | sum-of-square-numbers | Sum of Square Numbers | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.cpp) |
 | sum-of-subsequence-widths | Sum of Subsequence Widths | Hard | cpp | [Problem](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Solution](./solutions/Hard/0891-sum-of-subsequence-widths/solution.cpp) |
 | super-egg-drop | Super Egg Drop | Hard | cpp | [Problem](https://leetcode.com/problems/super-egg-drop/) | [Solution](./solutions/Hard/0887-super-egg-drop/solution.cpp) |
+| surface-area-of-3d-shapes | Surface Area of 3D Shapes | Easy | cpp | [Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [Solution](./solutions/Easy/0892-surface-area-of-3d-shapes/solution.cpp) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | c | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.c) |
 | transform-to-chessboard | Transform to Chessboard | Hard | cpp | [Problem](https://leetcode.com/problems/transform-to-chessboard/) | [Solution](./solutions/Hard/0782-transform-to-chessboard/solution.cpp) |
 | trapping-rain-water-ii | 407. Trapping Rain Water Ii | Hard | cpp | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.cpp) |
