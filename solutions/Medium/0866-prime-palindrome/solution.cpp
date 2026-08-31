@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Number Theory, Primality Test
 // Link     : https://leetcode.com/problems/prime-palindrome/
-// Runtime  : 51 ms (beats 29%)
-// Memory   : 10352000 (beats 21%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 8120000 (beats 0%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
