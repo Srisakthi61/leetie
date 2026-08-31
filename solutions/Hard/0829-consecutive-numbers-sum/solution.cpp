@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Enumeration
 // Link     : https://leetcode.com/problems/consecutive-numbers-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7696000 (beats 0%)
+// Runtime  : 2 ms (beats 52%)
+// Memory   : 7840000 (beats 69%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
