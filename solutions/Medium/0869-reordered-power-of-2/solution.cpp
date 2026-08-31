@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Math, Sorting, Counting, Enumeration
 // Link     : https://leetcode.com/problems/reordered-power-of-2/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7940000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8864000 (beats 64%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
