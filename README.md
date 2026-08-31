@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 187 Solved
+## Progress Summary: 188 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -60,6 +60,7 @@
 | random-flip-matrix | Random Flip Matrix | Medium | cpp | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.cpp) |
 | random-pick-index | Random Pick Index | Medium | cpp | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.cpp) |
 | random-pick-with-blacklist | Random Pick with Blacklist | Hard | cpp | [Problem](https://leetcode.com/problems/random-pick-with-blacklist/) | [Solution](./solutions/Hard/0710-random-pick-with-blacklist/solution.cpp) |
+| reach-a-number | Reach a Number | Medium | cpp | [Problem](https://leetcode.com/problems/reach-a-number/) | [Solution](./solutions/Medium/0754-reach-a-number/solution.cpp) |
 | search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.c) |
 | self-dividing-numbers | Self Dividing Numbers | Easy | cpp | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.cpp) |
 | single-number-iii | 260. Single Number Iii | Medium | c | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.c) |
