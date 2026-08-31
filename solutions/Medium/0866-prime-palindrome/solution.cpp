@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Number Theory, Primality Test
 // Link     : https://leetcode.com/problems/prime-palindrome/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8032000 (beats 0%)
+// Runtime  : 51 ms (beats 29%)
+// Memory   : 10352000 (beats 21%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -16,7 +16,7 @@ public:
         if (n >= 8 && n <= 11) {
             return 11;
         }
-        for (int length = 1; length <= 5; ++length) {
+        for (int length = 1; length <= 9; ++length) {
             int low = pow(10, (length - 1) / 2);
             int high = pow(10, (length + 1) / 2);
             for (int i = low; i < high; ++i) {
