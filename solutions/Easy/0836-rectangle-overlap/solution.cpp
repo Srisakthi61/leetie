@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, Geometry
 // Link     : https://leetcode.com/problems/rectangle-overlap/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8272000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 9760000 (beats 77%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
