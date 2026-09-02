@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math, Geometry, Sorting, Matrix
 // Link     : https://leetcode.com/problems/matrix-cells-in-distance-order/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8072000 (beats 0%)
+// Runtime  : 17 ms (beats 58%)
+// Memory   : 19796000 (beats 80%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
