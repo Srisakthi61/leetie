@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/numbers-with-repeated-digits/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8076000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 8404000 (beats 35%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
