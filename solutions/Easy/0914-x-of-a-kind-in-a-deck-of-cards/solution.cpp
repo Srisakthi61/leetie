@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Math, Counting, Number Theory, Euclidean Algorithm, Greatest Common Divisor
 // Link     : https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8384000 (beats 0%)
+// Runtime  : 3 ms (beats 23%)
+// Memory   : 21172000 (beats 98%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
