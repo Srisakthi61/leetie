@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/add-to-array-form-of-integer/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8296000 (beats 0%)
+// Runtime  : 2 ms (beats 32%)
+// Memory   : 32820000 (beats 23%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
