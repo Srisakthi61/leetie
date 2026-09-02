@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 219 Solved
+## Progress Summary: 220 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,6 +26,7 @@
 | number-of-digit-one | 233. Number Of Digit One | Hard | cpp | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.cpp) |
 | product-of-array-except-self | 238. Product Of Array Except Self | Medium | java | [Problem](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./solutions/Medium/0238-product-of-array-except-self/solution.java) |
 | search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | c | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.c) |
+| add-digits | 258. Add Digits | Easy | cpp | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.cpp) |
 | single-number-iii | 260. Single Number Iii | Medium | c | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.c) |
 | ugly-number-ii | 264. Ugly Number Ii | Medium | cpp | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.cpp) |
 | h-index | 274. H Index | Medium | c | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.c) |
@@ -63,19 +64,19 @@
 | frog-jump | 403. Frog Jump | Hard | cpp | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.cpp) |
 | queue-reconstruction-by-height | 406. Queue Reconstruction By Height | Medium | cpp | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.cpp) |
 | trapping-rain-water-ii | 407. Trapping Rain Water Ii | Hard | cpp | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.cpp) |
-| split-array-largest-sum | 410. Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
 | arithmetic-slices | 413. Arithmetic Slices | Medium | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.cpp) |
 | add-strings | 415. Add Strings | Easy | cpp | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.cpp) |
 | partition-equal-subset-sum | 416. Partition Equal Subset Sum | Medium | cpp | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.cpp) |
 | pacific-atlantic-water-flow | 417. Pacific Atlantic Water Flow | Medium | cpp | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.cpp) |
 | battleships-in-a-board | 419. Battleships In A Board | Medium | cpp | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.cpp) |
+| strong-password-checker | 420. Strong Password Checker | Hard | cpp | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.cpp) |
 | reconstruct-original-digits-from-english | 423. Reconstruct Original Digits From English | Medium | cpp | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.cpp) |
 | construct-quad-tree | 427. Construct Quad Tree | Medium | cpp | [Problem](https://leetcode.com/problems/construct-quad-tree/) | [Solution](./solutions/Medium/0427-construct-quad-tree/solution.cpp) |
 | minimum-genetic-mutation | 433. Minimum Genetic Mutation | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.cpp) |
-| number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | cpp | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.cpp) |
 | non-overlapping-intervals | 435. Non Overlapping Intervals | Medium | cpp | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.cpp) |
 | find-right-interval | 436. Find Right Interval | Medium | cpp | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.cpp) |
 | find-all-anagrams-in-a-string | 438. Find All Anagrams In A String | Medium | cpp | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.cpp) |
+| arranging-coins | 441. Arranging Coins | Easy | cpp | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.cpp) |
 | find-all-duplicates-in-an-array | 442. Find All Duplicates In An Array | Medium | cpp | [Problem](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](./solutions/Medium/0442-find-all-duplicates-in-an-array/solution.cpp) |
 | string-compression | 443. String Compression | Medium | cpp | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.cpp) |
 | add-two-numbers-ii | 445. Add Two Numbers Ii | Medium | cpp | [Problem](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./solutions/Medium/0445-add-two-numbers-ii/solution.cpp) |
@@ -87,6 +88,7 @@
 | 4sum-ii | 454. 4sum Ii | Medium | cpp | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.cpp) |
 | 132-pattern | 456. 132 Pattern | Medium | cpp | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.cpp) |
 | circular-array-loop | 457. Circular Array Loop | Medium | cpp | [Problem](https://leetcode.com/problems/circular-array-loop/) | [Solution](./solutions/Medium/0457-circular-array-loop/solution.cpp) |
+| poor-pigs | 458. Poor Pigs | Hard | cpp | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.cpp) |
 | minimum-moves-to-equal-array-elements-ii | 462. Minimum Moves To Equal Array Elements Ii | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Solution](./solutions/Medium/0462-minimum-moves-to-equal-array-elements-ii/solution.cpp) |
 | can-i-win | 464. Can I Win | Medium | cpp | [Problem](https://leetcode.com/problems/can-i-win/) | [Solution](./solutions/Medium/0464-can-i-win/solution.cpp) |
 | count-the-repetitions | 466. Count The Repetitions | Hard | cpp | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.cpp) |
@@ -105,13 +107,12 @@
 | smallest-good-base | 483. Smallest Good Base | Hard | cpp | [Problem](https://leetcode.com/problems/smallest-good-base/) | [Solution](./solutions/Hard/0483-smallest-good-base/solution.cpp) |
 | predict-the-winner | 486. Predict The Winner | Medium | cpp | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.cpp) |
 | non-decreasing-subsequences | 491. Non Decreasing Subsequences | Medium | cpp | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.cpp) |
+| construct-the-rectangle | 492. Construct The Rectangle | Easy | cpp | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.cpp) |
 | reverse-pairs | 493. Reverse Pairs | Hard | cpp | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.cpp) |
 | target-sum | 494. Target Sum | Medium | cpp | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.cpp) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | cpp | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.cpp) |
 | diagonal-traverse | 498. Diagonal Traverse | Medium | cpp | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.cpp) |
-| keyboard-row | 500. Keyboard Row | Easy | cpp | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.cpp) |
 | ipo | 502. Ipo | Hard | cpp | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.cpp) |
-| fibonacci-number | 509. Fibonacci Number | Easy | cpp | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.cpp) |
 | super-washing-machines | 517. Super Washing Machines | Hard | cpp | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.cpp) |
 | coin-change-ii | 518. Coin Change Ii | Medium | cpp | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.cpp) |
 | random-flip-matrix | 519. Random Flip Matrix | Medium | cpp | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.cpp) |
@@ -131,20 +132,20 @@
 | brick-wall | 554. Brick Wall | Medium | cpp | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.cpp) |
 | next-greater-element-iii | 556. Next Greater Element Iii | Medium | cpp | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.cpp) |
 | subarray-sum-equals-k | 560. Subarray Sum Equals K | Medium | cpp | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.cpp) |
+| array-partition | 561. Array Partition | Easy | cpp | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.cpp) |
 | find-the-closest-palindrome | 564. Find The Closest Palindrome | Hard | cpp | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.cpp) |
 | array-nesting | 565. Array Nesting | Medium | cpp | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.cpp) |
+| distribute-candies | 575. Distribute Candies | Easy | cpp | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.cpp) |
 | shortest-unsorted-continuous-subarray | 581. Shortest Unsorted Continuous Subarray | Medium | cpp | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.cpp) |
 | erect-the-fence | 587. Erect The Fence | Hard | cpp | [Problem](https://leetcode.com/problems/erect-the-fence/) | [Solution](./solutions/Hard/0587-erect-the-fence/solution.cpp) |
 | fraction-addition-and-subtraction | 592. Fraction Addition And Subtraction | Medium | cpp | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.cpp) |
 | valid-square | 593. Valid Square | Medium | cpp | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.cpp) |
-| longest-harmonious-subsequence | 594. Longest Harmonious Subsequence | Easy | cpp | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.cpp) |
-| minimum-index-sum-of-two-lists | 599. Minimum Index Sum Of Two Lists | Easy | cpp | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.cpp) |
+| can-place-flowers | 605. Can Place Flowers | Easy | cpp | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.cpp) |
 | find-duplicate-file-in-system | 609. Find Duplicate File In System | Medium | cpp | [Problem](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Solution](./solutions/Medium/0609-find-duplicate-file-in-system/solution.cpp) |
 | valid-triangle-number | 611. Valid Triangle Number | Medium | cpp | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.cpp) |
 | task-scheduler | 621. Task Scheduler | Medium | cpp | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.cpp) |
 | design-circular-queue | 622. Design Circular Queue | Medium | cpp | [Problem](https://leetcode.com/problems/design-circular-queue/) | [Solution](./solutions/Medium/0622-design-circular-queue/solution.cpp) |
 | maximum-distance-in-arrays | 624. Maximum Distance In Arrays | Medium | cpp | [Problem](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Solution](./solutions/Medium/0624-maximum-distance-in-arrays/solution.cpp) |
-| maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | cpp | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.cpp) |
 | course-schedule-iii | 630. Course Schedule Iii | Hard | cpp | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.cpp) |
 | smallest-range-covering-elements-from-k-lists | 632. Smallest Range Covering Elements From K Lists | Hard | cpp | [Problem](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](./solutions/Hard/0632-smallest-range-covering-elements-from-k-lists/solution.cpp) |
 | sum-of-square-numbers | 633. Sum Of Square Numbers | Medium | cpp | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.cpp) |
@@ -177,6 +178,7 @@
 | split-array-with-same-average | 805. Split Array With Same Average | Hard | cpp | [Problem](https://leetcode.com/problems/split-array-with-same-average/) | [Solution](./solutions/Hard/0805-split-array-with-same-average/solution.cpp) |
 | soup-servings | 808. Soup Servings | Medium | cpp | [Problem](https://leetcode.com/problems/soup-servings/) | [Solution](./solutions/Medium/0808-soup-servings/solution.cpp) |
 | chalkboard-xor-game | 810. Chalkboard Xor Game | Hard | cpp | [Problem](https://leetcode.com/problems/chalkboard-xor-game/) | [Solution](./solutions/Hard/0810-chalkboard-xor-game/solution.cpp) |
+| largest-triangle-area | 812. Largest Triangle Area | Easy | cpp | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.cpp) |
 | consecutive-numbers-sum | 829. Consecutive Numbers Sum | Hard | cpp | [Problem](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./solutions/Hard/0829-consecutive-numbers-sum/solution.cpp) |
 | new-21-game | 837. New 21 Game | Medium | cpp | [Problem](https://leetcode.com/problems/new-21-game/) | [Solution](./solutions/Medium/0837-new-21-game/solution.cpp) |
 | magic-squares-in-grid | 840. Magic Squares In Grid | Medium | cpp | [Problem](https://leetcode.com/problems/magic-squares-in-grid/) | [Solution](./solutions/Medium/0840-magic-squares-in-grid/solution.cpp) |
@@ -193,34 +195,33 @@
 | numbers-at-most-n-given-digit-set | Numbers At Most N Given Digit Set | Hard | cpp | [Problem](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Solution](./solutions/Hard/0902-numbers-at-most-n-given-digit-set/solution.cpp) |
 | orderly-queue | Orderly Queue | Hard | cpp | [Problem](https://leetcode.com/problems/orderly-queue/) | [Solution](./solutions/Hard/0899-orderly-queue/solution.cpp) |
 | power-of-two | 231. Power Of Two | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.cpp) |
+| power-of-four | 342. Power Of Four | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.cpp) |
+| base-7 | 504. Base 7 | Easy | cpp | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.cpp) |
+| perfect-number | 507. Perfect Number | Easy | cpp | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.cpp) |
+| range-addition-ii | 598. Range Addition Ii | Easy | cpp | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.cpp) |
+| maximum-average-subarray-i | 643. Maximum Average Subarray I | Easy | cpp | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.cpp) |
+| self-dividing-numbers | 728. Self Dividing Numbers | Easy | cpp | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.cpp) |
+| projection-area-of-3d-shapes | 883. Projection Area Of 3d Shapes | Easy | cpp | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.cpp) |
+| smallest-range-i | Smallest Range I | Easy | cpp | [Problem](https://leetcode.com/problems/smallest-range-i/) | [Solution](./solutions/Easy/0908-smallest-range-i/solution.cpp) |
+| super-palindromes | Super Palindromes | Hard | cpp | [Problem](https://leetcode.com/problems/super-palindromes/) | [Solution](./solutions/Hard/0906-super-palindromes/solution.cpp) |
+| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
+| ugly-number | 263. Ugly Number | Easy | cpp | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.cpp) |
 | power-of-three | 326. Power Of Three | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.cpp) |
-| strong-password-checker | 420. Strong Password Checker | Hard | cpp | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.cpp) |
+| valid-perfect-square | 367. Valid Perfect Square | Easy | cpp | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.cpp) |
+| split-array-largest-sum | 410. Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
+| number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | cpp | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.cpp) |
+| arithmetic-slices-ii-subsequence | 446. Arithmetic Slices Ii Subsequence | Hard | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.cpp) |
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | cpp | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.cpp) |
+| keyboard-row | 500. Keyboard Row | Easy | cpp | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.cpp) |
 | relative-ranks | 506. Relative Ranks | Easy | cpp | [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](./solutions/Easy/0506-relative-ranks/solution.cpp) |
+| fibonacci-number | 509. Fibonacci Number | Easy | cpp | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.cpp) |
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | cpp | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.cpp) |
+| longest-harmonious-subsequence | 594. Longest Harmonious Subsequence | Easy | cpp | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.cpp) |
+| minimum-index-sum-of-two-lists | 599. Minimum Index Sum Of Two Lists | Easy | cpp | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.cpp) |
+| maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | cpp | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.cpp) |
 | set-mismatch | 645. Set Mismatch | Easy | cpp | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.cpp) |
 | prime-number-of-set-bits-in-binary-representation | 762. Prime Number Of Set Bits In Binary Representation | Easy | cpp | [Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Solution](./solutions/Easy/0762-prime-number-of-set-bits-in-binary-representation/solution.cpp) |
 | rectangle-overlap | 836. Rectangle Overlap | Easy | cpp | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.cpp) |
-| super-palindromes | Super Palindromes | Hard | cpp | [Problem](https://leetcode.com/problems/super-palindromes/) | [Solution](./solutions/Hard/0906-super-palindromes/solution.cpp) |
-| two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| add-digits | 258. Add Digits | Easy | cpp | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.cpp) |
-| ugly-number | 263. Ugly Number | Easy | cpp | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.cpp) |
-| power-of-four | 342. Power Of Four | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.cpp) |
-| valid-perfect-square | 367. Valid Perfect Square | Easy | cpp | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.cpp) |
-| arranging-coins | 441. Arranging Coins | Easy | cpp | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.cpp) |
-| arithmetic-slices-ii-subsequence | 446. Arithmetic Slices Ii Subsequence | Hard | cpp | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.cpp) |
-| poor-pigs | 458. Poor Pigs | Hard | cpp | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.cpp) |
-| construct-the-rectangle | 492. Construct The Rectangle | Easy | cpp | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.cpp) |
-| base-7 | 504. Base 7 | Easy | cpp | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.cpp) |
-| perfect-number | 507. Perfect Number | Easy | cpp | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.cpp) |
-| array-partition | 561. Array Partition | Easy | cpp | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.cpp) |
-| distribute-candies | 575. Distribute Candies | Easy | cpp | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.cpp) |
-| range-addition-ii | 598. Range Addition Ii | Easy | cpp | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.cpp) |
-| can-place-flowers | 605. Can Place Flowers | Easy | cpp | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.cpp) |
-| maximum-average-subarray-i | 643. Maximum Average Subarray I | Easy | cpp | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.cpp) |
-| self-dividing-numbers | 728. Self Dividing Numbers | Easy | cpp | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.cpp) |
-| largest-triangle-area | 812. Largest Triangle Area | Easy | cpp | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.cpp) |
-| projection-area-of-3d-shapes | 883. Projection Area Of 3d Shapes | Easy | cpp | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.cpp) |
 | surface-area-of-3d-shapes | 892. Surface Area Of 3d Shapes | Easy | cpp | [Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [Solution](./solutions/Easy/0892-surface-area-of-3d-shapes/solution.cpp) |
 | capacity-to-ship-packages-within-d-days | 1011. Capacity To Ship Packages Within D Days | Medium | java | [Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Solution](./solutions/Medium/1011-capacity-to-ship-packages-within-d-days/solution.java) |
 | find-the-smallest-divisor-given-a-threshold | 1283. Find The Smallest Divisor Given A Threshold | Medium | java | [Problem](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution](./solutions/Medium/1283-find-the-smallest-divisor-given-a-threshold/solution.java) |
