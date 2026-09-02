@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Math, Union-Find, Number Theory, Prime Factorization
 // Link     : https://leetcode.com/problems/largest-component-size-by-common-factor/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8664000 (beats 0%)
+// Runtime  : 151 ms (beats 46%)
+// Memory   : 55344000 (beats 77%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
