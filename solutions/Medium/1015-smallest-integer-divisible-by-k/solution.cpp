@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Math, Pigeonhole Principle
 // Link     : https://leetcode.com/problems/smallest-integer-divisible-by-k/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7752000 (beats 0%)
+// Runtime  : 1 ms (beats 37%)
+// Memory   : 7856000 (beats 50%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
