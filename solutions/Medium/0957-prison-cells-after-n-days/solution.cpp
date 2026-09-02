@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math, Bit Manipulation, Floyd's Cycle Finding Algorithm
 // Link     : https://leetcode.com/problems/prison-cells-after-n-days/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8732000 (beats 0%)
+// Runtime  : 7 ms (beats 7%)
+// Memory   : 16948000 (beats 5%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
