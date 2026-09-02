@@ -4,7 +4,7 @@
 // Tags     : Math, String
 // Link     : https://leetcode.com/problems/equal-rational-numbers/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 7672000 (beats 0%)
+// Memory   : 7644000 (beats 0%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -46,9 +46,24 @@ public:
         long long val2 = convert(t);
         if (val1 == val2) return true;
         
-        string s9 = s.find('(') != string::npos ? s : s + "(9)";
-        string t9 = t.find('(') != string::npos ? t : t + "(9)";
+        string s9 = s;
+        if (s.find('(') == string::npos) {
+            if (s.find('.') == string::npos) {
+                s9 = s + ".$(9)";
+            } else {
+                s9 = s + "(9)";
+            }
+        }
         
-        return convert(s9) == convert(t9);
+        string t9 = t;
+        if (t.find('(') == string::npos) {
+            if (t.find('.') == string::npos) {
+                t9 = t + ".(9)";
+            } else {
+                t9 = t + "(9)";
+            }
+        }
+        
+        return convert(s9) == convert(t9) || val1 == convert(t9) || convert(s9) == val2;
     }
 };
