@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, String, Enumeration
 // Link     : https://leetcode.com/problems/super-palindromes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7812000 (beats 0%)
+// Runtime  : 137 ms (beats 52%)
+// Memory   : 10292000 (beats 59%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
