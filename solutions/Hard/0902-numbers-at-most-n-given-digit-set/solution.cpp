@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, String, Binary Search, Dynamic Programming
 // Link     : https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8720000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 10664000 (beats 34%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
