@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, Dynamic Programming, Graph Theory, Topological Sort, Memoization, Minimax, Game Theory, Zero-Sum Game
 // Link     : https://leetcode.com/problems/cat-and-mouse/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8492000 (beats 0%)
+// Runtime  : 52 ms (beats 60%)
+// Memory   : 26124000 (beats 69%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
