@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 217 Solved
+## Progress Summary: 218 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | add-two-numbers | 2. Add Two Numbers | Medium | c | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solutions/Medium/0002-add-two-numbers/solution.c) |
+| numbers-at-most-n-given-digit-set | Numbers At Most N Given Digit Set | Hard | cpp | [Problem](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Solution](./solutions/Hard/0902-numbers-at-most-n-given-digit-set/solution.cpp) |
 | orderly-queue | Orderly Queue | Hard | cpp | [Problem](https://leetcode.com/problems/orderly-queue/) | [Solution](./solutions/Hard/0899-orderly-queue/solution.cpp) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | string-to-integer-atoi | 8. String To Integer Atoi | Medium | c | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./solutions/Medium/0008-string-to-integer-atoi/solution.c) |
