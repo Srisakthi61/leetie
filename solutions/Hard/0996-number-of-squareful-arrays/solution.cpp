@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Math, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask
 // Link     : https://leetcode.com/problems/number-of-squareful-arrays/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8188000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 10056000 (beats 77%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
