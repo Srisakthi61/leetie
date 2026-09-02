@@ -2,13 +2,15 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 227 Solved
+## Progress Summary: 228 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | add-two-numbers | 2. Add Two Numbers | Medium | c | [Problem](https://leetcode.com/problems/add-two-numbers/) | [Solution](./solutions/Medium/0002-add-two-numbers/solution.c) |
 | beautiful-array | Beautiful Array | Medium | cpp | [Problem](https://leetcode.com/problems/beautiful-array/) | [Solution](./solutions/Medium/0932-beautiful-array/solution.cpp) |
+| best-time-to-buy-and-sell-stock-with-cooldown | 309. Best Time To Buy And Sell Stock With Cooldown | Medium | c | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](./solutions/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/solution.c) |
 | cat-and-mouse | Cat and Mouse | Hard | cpp | [Problem](https://leetcode.com/problems/cat-and-mouse/) | [Solution](./solutions/Hard/0913-cat-and-mouse/solution.cpp) |
+| largest-component-size-by-common-factor | Largest Component Size by Common Factor | Hard | cpp | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.cpp) |
 | string-to-integer-atoi | 8. String To Integer Atoi | Medium | c | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./solutions/Medium/0008-string-to-integer-atoi/solution.c) |
 | 4sum | 18. 4sum | Medium | c | [Problem](https://leetcode.com/problems/4sum/) | [Solution](./solutions/Medium/0018-4sum/solution.c) |
 | max-points-on-a-line | 149. Max Points On A Line | Hard | c | [Problem](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](./solutions/Hard/0149-max-points-on-a-line/solution.c) |
@@ -45,7 +47,6 @@
 | nim-game | 292. Nim Game | Easy | cpp | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.cpp) |
 | longest-increasing-subsequence | 300. Longest Increasing Subsequence | Medium | c | [Problem](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./solutions/Medium/0300-longest-increasing-subsequence/solution.c) |
 | range-sum-query-mutable | 307. Range Sum Query Mutable | Medium | c | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.c) |
-| best-time-to-buy-and-sell-stock-with-cooldown | 309. Best Time To Buy And Sell Stock With Cooldown | Medium | c | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](./solutions/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/solution.c) |
 | burst-balloons | 312. Burst Balloons | Hard | c | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.c) |
 | super-ugly-number | 313. Super Ugly Number | Medium | c | [Problem](https://leetcode.com/problems/super-ugly-number/) | [Solution](./solutions/Medium/0313-super-ugly-number/solution.c) |
 | count-of-smaller-numbers-after-self | 315. Count Of Smaller Numbers After Self | Hard | c | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.c) |
@@ -161,7 +162,7 @@
 | valid-square | 593. Valid Square | Medium | cpp | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.cpp) |
 | longest-harmonious-subsequence | 594. Longest Harmonious Subsequence | Easy | cpp | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.cpp) |
 | range-addition-ii | 598. Range Addition Ii | Easy | cpp | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.cpp) |
-| minimum-index-sum-of-two-lists | 599. Minimum Index Sum Of Two Lists | Easy | cpp | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.cpp) |
+| can-place-flowers | 605. Can Place Flowers | Easy | cpp | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.cpp) |
 | find-duplicate-file-in-system | 609. Find Duplicate File In System | Medium | cpp | [Problem](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Solution](./solutions/Medium/0609-find-duplicate-file-in-system/solution.cpp) |
 | valid-triangle-number | 611. Valid Triangle Number | Medium | cpp | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.cpp) |
 | task-scheduler | 621. Task Scheduler | Medium | cpp | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.cpp) |
@@ -176,7 +177,6 @@
 | solve-the-equation | 640. Solve The Equation | Medium | cpp | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.cpp) |
 | design-circular-deque | 641. Design Circular Deque | Medium | cpp | [Problem](https://leetcode.com/problems/design-circular-deque/) | [Solution](./solutions/Medium/0641-design-circular-deque/solution.cpp) |
 | maximum-average-subarray-i | 643. Maximum Average Subarray I | Easy | cpp | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.cpp) |
-| set-mismatch | 645. Set Mismatch | Easy | cpp | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.cpp) |
 | maximum-length-of-pair-chain | 646. Maximum Length Of Pair Chain | Medium | cpp | [Problem](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Solution](./solutions/Medium/0646-maximum-length-of-pair-chain/solution.cpp) |
 | replace-words | 648. Replace Words | Medium | cpp | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.cpp) |
 | 2-keys-keyboard | 650. 2 Keys Keyboard | Medium | cpp | [Problem](https://leetcode.com/problems/2-keys-keyboard/) | [Solution](./solutions/Medium/0650-2-keys-keyboard/solution.cpp) |
@@ -188,6 +188,7 @@
 | bulb-switcher-ii | 672. Bulb Switcher Ii | Medium | cpp | [Problem](https://leetcode.com/problems/bulb-switcher-ii/) | [Solution](./solutions/Medium/0672-bulb-switcher-ii/solution.cpp) |
 | 24-game | 679. 24 Game | Hard | cpp | [Problem](https://leetcode.com/problems/24-game/) | [Solution](./solutions/Hard/0679-24-game/solution.cpp) |
 | random-pick-with-blacklist | 710. Random Pick With Blacklist | Hard | cpp | [Problem](https://leetcode.com/problems/random-pick-with-blacklist/) | [Solution](./solutions/Hard/0710-random-pick-with-blacklist/solution.cpp) |
+| self-dividing-numbers | 728. Self Dividing Numbers | Easy | cpp | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.cpp) |
 | monotone-increasing-digits | 738. Monotone Increasing Digits | Medium | cpp | [Problem](https://leetcode.com/problems/monotone-increasing-digits/) | [Solution](./solutions/Medium/0738-monotone-increasing-digits/solution.cpp) |
 | reach-a-number | 754. Reach A Number | Medium | cpp | [Problem](https://leetcode.com/problems/reach-a-number/) | [Solution](./solutions/Medium/0754-reach-a-number/solution.cpp) |
 | prime-number-of-set-bits-in-binary-representation | 762. Prime Number Of Set Bits In Binary Representation | Easy | cpp | [Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Solution](./solutions/Easy/0762-prime-number-of-set-bits-in-binary-representation/solution.cpp) |
@@ -205,7 +206,6 @@
 | chalkboard-xor-game | 810. Chalkboard Xor Game | Hard | cpp | [Problem](https://leetcode.com/problems/chalkboard-xor-game/) | [Solution](./solutions/Hard/0810-chalkboard-xor-game/solution.cpp) |
 | largest-triangle-area | 812. Largest Triangle Area | Easy | cpp | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.cpp) |
 | consecutive-numbers-sum | 829. Consecutive Numbers Sum | Hard | cpp | [Problem](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./solutions/Hard/0829-consecutive-numbers-sum/solution.cpp) |
-| rectangle-overlap | 836. Rectangle Overlap | Easy | cpp | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.cpp) |
 | new-21-game | 837. New 21 Game | Medium | cpp | [Problem](https://leetcode.com/problems/new-21-game/) | [Solution](./solutions/Medium/0837-new-21-game/solution.cpp) |
 | magic-squares-in-grid | 840. Magic Squares In Grid | Medium | cpp | [Problem](https://leetcode.com/problems/magic-squares-in-grid/) | [Solution](./solutions/Medium/0840-magic-squares-in-grid/solution.cpp) |
 | guess-the-word | 843. Guess The Word | Hard | cpp | [Problem](https://leetcode.com/problems/guess-the-word/) | [Solution](./solutions/Hard/0843-guess-the-word/solution.cpp) |
@@ -215,6 +215,7 @@
 | koko-eating-bananas | 875. Koko Eating Bananas | Medium | java | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.java) |
 | stone-game | 877. Stone Game | Medium | cpp | [Problem](https://leetcode.com/problems/stone-game/) | [Solution](./solutions/Medium/0877-stone-game/solution.cpp) |
 | nth-magical-number | 878. Nth Magical Number | Hard | cpp | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.cpp) |
+| projection-area-of-3d-shapes | 883. Projection Area Of 3d Shapes | Easy | cpp | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.cpp) |
 | super-egg-drop | 887. Super Egg Drop | Hard | cpp | [Problem](https://leetcode.com/problems/super-egg-drop/) | [Solution](./solutions/Hard/0887-super-egg-drop/solution.cpp) |
 | sum-of-subsequence-widths | 891. Sum Of Subsequence Widths | Hard | cpp | [Problem](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Solution](./solutions/Hard/0891-sum-of-subsequence-widths/solution.cpp) |
 | capacity-to-ship-packages-within-d-days | 1011. Capacity To Ship Packages Within D Days | Medium | java | [Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Solution](./solutions/Medium/1011-capacity-to-ship-packages-within-d-days/solution.java) |
@@ -228,8 +229,8 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | ugly-number | 263. Ugly Number | Easy | cpp | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.cpp) |
 | valid-perfect-square | 367. Valid Perfect Square | Easy | cpp | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.cpp) |
-| can-place-flowers | 605. Can Place Flowers | Easy | cpp | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.cpp) |
-| self-dividing-numbers | 728. Self Dividing Numbers | Easy | cpp | [Problem](https://leetcode.com/problems/self-dividing-numbers/) | [Solution](./solutions/Easy/0728-self-dividing-numbers/solution.cpp) |
-| projection-area-of-3d-shapes | 883. Projection Area Of 3d Shapes | Easy | cpp | [Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Solution](./solutions/Easy/0883-projection-area-of-3d-shapes/solution.cpp) |
+| minimum-index-sum-of-two-lists | 599. Minimum Index Sum Of Two Lists | Easy | cpp | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.cpp) |
+| set-mismatch | 645. Set Mismatch | Easy | cpp | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.cpp) |
+| rectangle-overlap | 836. Rectangle Overlap | Easy | cpp | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.cpp) |
 | surface-area-of-3d-shapes | 892. Surface Area Of 3d Shapes | Easy | cpp | [Problem](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [Solution](./solutions/Easy/0892-surface-area-of-3d-shapes/solution.cpp) |
 | x-of-a-kind-in-a-deck-of-cards | X of a Kind in a Deck of Cards | Easy | cpp | [Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Solution](./solutions/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.cpp) |
