@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math, Geometry, Sorting
 // Link     : https://leetcode.com/problems/minimum-area-rectangle/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8352000 (beats 0%)
+// Runtime  : 101 ms (beats 92%)
+// Memory   : 23292000 (beats 91%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
