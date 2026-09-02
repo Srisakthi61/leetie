@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect, K-D Tree
 // Link     : https://leetcode.com/problems/k-closest-points-to-origin/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8528000 (beats 0%)
+// Runtime  : 32 ms (beats 73%)
+// Memory   : 66684000 (beats 89%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
