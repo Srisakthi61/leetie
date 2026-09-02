@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/three-equal-parts/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8140000 (beats 0%)
+// Runtime  : 3 ms (beats 36%)
+// Memory   : 42572000 (beats 94%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
@@ -28,8 +28,10 @@ public:
         
         int k = totalOnes / 3;
         int n = arr.size();
-        int i1 = 0, i2 = 0, i3 = 0;
-        int j1 = 0, j2 = 0, j3 = 0;
+        
+        int i1 = -1, j1 = -1;
+        int i2 = -1, j2 = -1;
+        int i3 = -1, j3 = -1;
         int count = 0;
         
         for (int i = 0; i < n; ++i) {
@@ -46,7 +48,7 @@ public:
         
         int len = n - i3;
         
-        if (i1 + len <= j1 + 1 && i2 + len <= j2 + 1) {
+        if (i1 + len <= n && i2 + len <= n && i3 + len <= n) {
             for (int i = 0; i < len; ++i) {
                 if (arr[i1 + i] != arr[i3 + i] || arr[i2 + i] != arr[i3 + i]) {
                     return {-1, -1};
