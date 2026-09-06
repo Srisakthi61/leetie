@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Greedy, Sorting, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8572000 (beats 0%)
+// Runtime  : 5 ms (beats 94%)
+// Memory   : 29592000 (beats 92%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
