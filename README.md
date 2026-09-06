@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 275 Solved
+## Progress Summary: 276 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -176,6 +176,7 @@
 | smallest-range-ii | Smallest Range II | Medium | cpp | [Problem](https://leetcode.com/problems/smallest-range-ii/) | [Solution](./solutions/Medium/0910-smallest-range-ii/solution.cpp) |
 | sort-an-array | Sort an Array | Medium | cpp | [Problem](https://leetcode.com/problems/sort-an-array/) | [Solution](./solutions/Medium/0912-sort-an-array/solution.cpp) |
 | sort-array-by-parity | Sort Array By Parity | Easy | cpp | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.cpp) |
+| sort-array-by-parity-ii | Sort Array By Parity II | Easy | cpp | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.cpp) |
 | special-binary-string | Special Binary String | Hard | cpp | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.cpp) |
 | strong-password-checker | 420. Strong Password Checker | Hard | cpp | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.cpp) |
 | number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | cpp | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.cpp) |
