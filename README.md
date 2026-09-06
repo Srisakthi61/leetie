@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 271 Solved
+## Progress Summary: 272 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -95,6 +95,7 @@
 | custom-sort-string | Custom Sort String | Medium | cpp | [Problem](https://leetcode.com/problems/custom-sort-string/) | [Solution](./solutions/Medium/0791-custom-sort-string/solution.cpp) |
 | divisor-game | Divisor Game | Easy | cpp | [Problem](https://leetcode.com/problems/divisor-game/) | [Solution](./solutions/Easy/1025-divisor-game/solution.cpp) |
 | equal-rational-numbers | Equal Rational Numbers | Hard | cpp | [Problem](https://leetcode.com/problems/equal-rational-numbers/) | [Solution](./solutions/Hard/0972-equal-rational-numbers/solution.cpp) |
+| fair-candy-swap | Fair Candy Swap | Easy | cpp | [Problem](https://leetcode.com/problems/fair-candy-swap/) | [Solution](./solutions/Easy/0888-fair-candy-swap/solution.cpp) |
 | find-and-replace-in-string | Find And Replace in String | Medium | cpp | [Problem](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](./solutions/Medium/0833-find-and-replace-in-string/solution.cpp) |
 | find-k-th-smallest-pair-distance | Find K-th Smallest Pair Distance | Hard | cpp | [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](./solutions/Hard/0719-find-k-th-smallest-pair-distance/solution.cpp) |
 | friends-of-appropriate-ages | Friends Of Appropriate Ages | Medium | cpp | [Problem](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Solution](./solutions/Medium/0825-friends-of-appropriate-ages/solution.cpp) |
