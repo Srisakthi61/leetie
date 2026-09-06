@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/friends-of-appropriate-ages/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 7960000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 41380000 (beats 18%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
