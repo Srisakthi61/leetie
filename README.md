@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 289 Solved
+## Progress Summary: 290 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -30,6 +30,7 @@
 | friends-of-appropriate-ages | Friends Of Appropriate Ages | Medium | cpp | [Problem](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Solution](./solutions/Medium/0825-friends-of-appropriate-ages/solution.cpp) |
 | groups-of-special-equivalent-strings | Groups of Special-Equivalent Strings | Medium | cpp | [Problem](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](./solutions/Medium/0893-groups-of-special-equivalent-strings/solution.cpp) |
 | hand-of-straights | Hand of Straights | Medium | cpp | [Problem](https://leetcode.com/problems/hand-of-straights/) | [Solution](./solutions/Medium/0846-hand-of-straights/solution.cpp) |
+| height-checker | Height Checker | Easy | cpp | [Problem](https://leetcode.com/problems/height-checker/) | [Solution](./solutions/Easy/1051-height-checker/solution.cpp) |
 | k-closest-points-to-origin | K Closest Points to Origin | Medium | cpp | [Problem](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./solutions/Medium/0973-k-closest-points-to-origin/solution.cpp) |
 | k-th-smallest-prime-fraction | K-th Smallest Prime Fraction | Medium | cpp | [Problem](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Solution](./solutions/Medium/0786-k-th-smallest-prime-fraction/solution.cpp) |
 | largest-component-size-by-common-factor | Largest Component Size by Common Factor | Hard | cpp | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.cpp) |
