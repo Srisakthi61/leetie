@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Queue, Sorting, Simulation
 // Link     : https://leetcode.com/problems/reveal-cards-in-increasing-order/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8316000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 12784000 (beats 22%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
