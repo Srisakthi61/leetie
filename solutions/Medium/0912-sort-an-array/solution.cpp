@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort
 // Link     : https://leetcode.com/problems/sort-an-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8376000 (beats 0%)
+// Runtime  : 59 ms (beats 74%)
+// Memory   : 73172000 (beats 70%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
