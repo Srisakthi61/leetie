@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Greedy, Sorting
 // Link     : https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8180000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 12716000 (beats 58%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
