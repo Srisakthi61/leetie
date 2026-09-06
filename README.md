@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 268 Solved
+## Progress Summary: 269 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -127,11 +127,6 @@
 | hand-of-straights | Hand of Straights | Medium | cpp | [Problem](https://leetcode.com/problems/hand-of-straights/) | [Solution](./solutions/Medium/0846-hand-of-straights/solution.cpp) |
 | k-closest-points-to-origin | K Closest Points to Origin | Medium | cpp | [Problem](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./solutions/Medium/0973-k-closest-points-to-origin/solution.cpp) |
 | k-th-smallest-prime-fraction | K-th Smallest Prime Fraction | Medium | cpp | [Problem](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Solution](./solutions/Medium/0786-k-th-smallest-prime-fraction/solution.cpp) |
-| target-sum | 494. Target Sum | Medium | cpp | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.cpp) |
-| random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | cpp | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.cpp) |
-| diagonal-traverse | 498. Diagonal Traverse | Medium | cpp | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.cpp) |
-| keyboard-row | 500. Keyboard Row | Easy | cpp | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.cpp) |
-| coin-change-ii | 518. Coin Change Ii | Medium | cpp | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.cpp) |
 | largest-component-size-by-common-factor | Largest Component Size by Common Factor | Hard | cpp | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.cpp) |
 | largest-number-at-least-twice-of-others | Largest Number At Least Twice of Others | Easy | cpp | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.cpp) |
 | largest-perimeter-triangle | Largest Perimeter Triangle | Easy | cpp | [Problem](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](./solutions/Easy/0976-largest-perimeter-triangle/solution.cpp) |
@@ -143,6 +138,7 @@
 | median-of-two-sorted-arrays | Median of Two Sorted Arrays | Hard | java | [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./solutions/Hard/0004-median-of-two-sorted-arrays/solution.java) |
 | minimum-area-rectangle | Minimum Area Rectangle | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](./solutions/Medium/0939-minimum-area-rectangle/solution.cpp) |
 | minimum-area-rectangle-ii | Minimum Area Rectangle II | Medium | cpp | [Problem](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [Solution](./solutions/Medium/0963-minimum-area-rectangle-ii/solution.cpp) |
+| minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | cpp | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.cpp) |
 | most-profit-assigning-work | Most Profit Assigning Work | Medium | cpp | [Problem](https://leetcode.com/problems/most-profit-assigning-work/) | [Solution](./solutions/Medium/0826-most-profit-assigning-work/solution.cpp) |
 | moving-stones-until-consecutive | Moving Stones Until Consecutive | Medium | cpp | [Problem](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Solution](./solutions/Medium/1033-moving-stones-until-consecutive/solution.cpp) |
 | moving-stones-until-consecutive-ii | Moving Stones Until Consecutive II | Medium | cpp | [Problem](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Solution](./solutions/Medium/1040-moving-stones-until-consecutive-ii/solution.cpp) |
@@ -158,17 +154,22 @@
 | power-of-two | 231. Power Of Two | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.cpp) |
 | power-of-three | 326. Power Of Three | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.cpp) |
 | power-of-four | 342. Power Of Four | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.cpp) |
-| base-7 | 504. Base 7 | Easy | cpp | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.cpp) |
+| keyboard-row | 500. Keyboard Row | Easy | cpp | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.cpp) |
 | powerful-integers | Powerful Integers | Medium | cpp | [Problem](https://leetcode.com/problems/powerful-integers/) | [Solution](./solutions/Medium/0970-powerful-integers/solution.cpp) |
 | prison-cells-after-n-days | Prison Cells After N Days | Medium | cpp | [Problem](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution](./solutions/Medium/0957-prison-cells-after-n-days/solution.cpp) |
 | reorganize-string | Reorganize String | Medium | cpp | [Problem](https://leetcode.com/problems/reorganize-string/) | [Solution](./solutions/Medium/0767-reorganize-string/solution.cpp) |
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | cpp | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.cpp) |
 | reverse-pairs | 493. Reverse Pairs | Hard | cpp | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.cpp) |
+| target-sum | 494. Target Sum | Medium | cpp | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.cpp) |
+| random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | cpp | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.cpp) |
+| diagonal-traverse | 498. Diagonal Traverse | Medium | cpp | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.cpp) |
 | ipo | 502. Ipo | Hard | cpp | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.cpp) |
+| base-7 | 504. Base 7 | Easy | cpp | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.cpp) |
 | relative-ranks | 506. Relative Ranks | Easy | cpp | [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](./solutions/Easy/0506-relative-ranks/solution.cpp) |
 | perfect-number | 507. Perfect Number | Easy | cpp | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.cpp) |
 | fibonacci-number | 509. Fibonacci Number | Easy | cpp | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.cpp) |
 | super-washing-machines | 517. Super Washing Machines | Hard | cpp | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.cpp) |
+| coin-change-ii | 518. Coin Change Ii | Medium | cpp | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.cpp) |
 | random-flip-matrix | 519. Random Flip Matrix | Medium | cpp | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.cpp) |
 | longest-uncommon-subsequence-ii | 522. Longest Uncommon Subsequence Ii | Medium | cpp | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.cpp) |
 | continuous-subarray-sum | 523. Continuous Subarray Sum | Medium | cpp | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.cpp) |
