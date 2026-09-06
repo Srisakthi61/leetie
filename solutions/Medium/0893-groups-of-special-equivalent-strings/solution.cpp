@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Sorting
 // Link     : https://leetcode.com/problems/groups-of-special-equivalent-strings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8416000 (beats 0%)
+// Runtime  : 3 ms (beats 58%)
+// Memory   : 11816000 (beats 99%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
