@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, String, Sorting
 // Link     : https://leetcode.com/problems/reorder-data-in-log-files/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8500000 (beats 0%)
+// Runtime  : 5 ms (beats 45%)
+// Memory   : 15472000 (beats 71%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
