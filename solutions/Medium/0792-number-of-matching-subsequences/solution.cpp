@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Binary Search, Dynamic Programming, Trie, Sorting
 // Link     : https://leetcode.com/problems/number-of-matching-subsequences/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8524000 (beats 0%)
+// Runtime  : 62 ms (beats 76%)
+// Memory   : 55356000 (beats 74%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
