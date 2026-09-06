@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 259 Solved
+## Progress Summary: 260 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | equal-rational-numbers | Equal Rational Numbers | Hard | cpp | [Problem](https://leetcode.com/problems/equal-rational-numbers/) | [Solution](./solutions/Hard/0972-equal-rational-numbers/solution.cpp) |
 | find-k-th-smallest-pair-distance | Find K-th Smallest Pair Distance | Hard | cpp | [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](./solutions/Hard/0719-find-k-th-smallest-pair-distance/solution.cpp) |
 | k-closest-points-to-origin | K Closest Points to Origin | Medium | cpp | [Problem](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./solutions/Medium/0973-k-closest-points-to-origin/solution.cpp) |
+| k-th-smallest-prime-fraction | K-th Smallest Prime Fraction | Medium | cpp | [Problem](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [Solution](./solutions/Medium/0786-k-th-smallest-prime-fraction/solution.cpp) |
 | kth-largest-element-in-an-array | 215. Kth Largest Element In An Array | Medium | c | [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./solutions/Medium/0215-kth-largest-element-in-an-array/solution.c) |
 | combination-sum-iii | 216. Combination Sum Iii | Medium | c | [Problem](https://leetcode.com/problems/combination-sum-iii/) | [Solution](./solutions/Medium/0216-combination-sum-iii/solution.c) |
 | largest-component-size-by-common-factor | Largest Component Size by Common Factor | Hard | cpp | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.cpp) |
