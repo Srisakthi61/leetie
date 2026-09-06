@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Greedy, Sorting, Counting
 // Link     : https://leetcode.com/problems/minimum-increment-to-make-array-unique/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8260000 (beats 0%)
+// Runtime  : 43 ms (beats 44%)
+// Memory   : 69516000 (beats 45%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
