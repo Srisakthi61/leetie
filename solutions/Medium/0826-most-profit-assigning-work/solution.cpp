@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Greedy, Sorting
 // Link     : https://leetcode.com/problems/most-profit-assigning-work/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8420000 (beats 0%)
+// Runtime  : 7 ms (beats 85%)
+// Memory   : 40444000 (beats 86%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
