@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting, Counting Sort, Bubble Sort
 // Link     : https://leetcode.com/problems/height-checker/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8160000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 11492000 (beats 32%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
