@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting
 // Link     : https://leetcode.com/problems/distant-barcodes/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8416000 (beats 0%)
+// Runtime  : 27 ms (beats 71%)
+// Memory   : 45064000 (beats 84%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
