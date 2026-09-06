@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Dynamic Programming, Sorting
 // Link     : https://leetcode.com/problems/binary-trees-with-factors/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8132000 (beats 0%)
+// Runtime  : 19 ms (beats 74%)
+// Memory   : 12876000 (beats 60%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
