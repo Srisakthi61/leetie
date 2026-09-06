@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Greedy, Sorting
 // Link     : https://leetcode.com/problems/array-of-doubled-pairs/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8236000 (beats 0%)
+// Runtime  : 40 ms (beats 26%)
+// Memory   : 61944000 (beats 24%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
