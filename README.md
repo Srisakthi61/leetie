@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 283 Solved
+## Progress Summary: 284 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -58,6 +58,7 @@
 | number-of-squareful-arrays | Number of Squareful Arrays | Hard | cpp | [Problem](https://leetcode.com/problems/number-of-squareful-arrays/) | [Solution](./solutions/Hard/0996-number-of-squareful-arrays/solution.cpp) |
 | numbers-at-most-n-given-digit-set | Numbers At Most N Given Digit Set | Hard | cpp | [Problem](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Solution](./solutions/Hard/0902-numbers-at-most-n-given-digit-set/solution.cpp) |
 | numbers-with-repeated-digits | Numbers With Repeated Digits | Hard | cpp | [Problem](https://leetcode.com/problems/numbers-with-repeated-digits/) | [Solution](./solutions/Hard/1012-numbers-with-repeated-digits/solution.cpp) |
+| odd-even-jump | Odd Even Jump | Hard | cpp | [Problem](https://leetcode.com/problems/odd-even-jump/) | [Solution](./solutions/Hard/0975-odd-even-jump/solution.cpp) |
 | orderly-queue | Orderly Queue | Hard | cpp | [Problem](https://leetcode.com/problems/orderly-queue/) | [Solution](./solutions/Hard/0899-orderly-queue/solution.cpp) |
 | pancake-sorting | Pancake Sorting | Medium | cpp | [Problem](https://leetcode.com/problems/pancake-sorting/) | [Solution](./solutions/Medium/0969-pancake-sorting/solution.cpp) |
 | power-of-two | 231. Power Of Two | Easy | cpp | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.cpp) |
