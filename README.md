@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 291 Solved
+## Progress Summary: 292 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -81,6 +81,7 @@
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | cpp | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.cpp) |
 | reveal-cards-in-increasing-order | Reveal Cards In Increasing Order | Medium | cpp | [Problem](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Solution](./solutions/Medium/0950-reveal-cards-in-increasing-order/solution.cpp) |
 | robot-bounded-in-circle | Robot Bounded In Circle | Medium | cpp | [Problem](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution](./solutions/Medium/1041-robot-bounded-in-circle/solution.cpp) |
+| search-a-2d-matrix | Search a 2D Matrix | Medium | java | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.java) |
 | set-intersection-size-at-least-two | Set Intersection Size At Least Two | Hard | cpp | [Problem](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Solution](./solutions/Hard/0757-set-intersection-size-at-least-two/solution.cpp) |
 | string-to-integer-atoi | 8. String To Integer Atoi | Medium | c | [Problem](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](./solutions/Medium/0008-string-to-integer-atoi/solution.c) |
 | 4sum | 18. 4sum | Medium | c | [Problem](https://leetcode.com/problems/4sum/) | [Solution](./solutions/Medium/0018-4sum/solution.c) |
