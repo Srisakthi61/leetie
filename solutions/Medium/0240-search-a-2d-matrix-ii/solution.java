@@ -3,13 +3,34 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Divide and Conquer, Matrix
 // Link     : https://leetcode.com/problems/search-a-2d-matrix-ii/
-// Runtime  : 3 ms (beats 86%)
-// Memory   : 48172000 (beats 65%)
+// Runtime  : 2 ms (beats 100%)
+// Memory   : 47812000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
+class Solution {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        int n=matrix.length;
+        int m=matrix[0].length;
+        int row=0;
+        int col=m-1;
+        while(row <n && col>=0){
+            if(matrix[row][col] == target){
+                return true;
+            }else if(matrix[row][col] > target){
+                col--;
+            }else{
+                row++;
+            }
+        }
+        return false;
+    }
+}
+
+/*better solution
+tc->o(n*log m) sc->o(1)
 class Solution {
     boolean possible(int[] arr,int target,int m){
         int low=0;
@@ -37,4 +58,4 @@ class Solution {
         }
         return false;
     }
-}
+}*/
