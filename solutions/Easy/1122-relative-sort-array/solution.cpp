@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, Sorting, Counting Sort, Quicksort, Bubble Sort
 // Link     : https://leetcode.com/problems/relative-sort-array/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8560000 (beats 0%)
+// Runtime  : 3 ms (beats 18%)
+// Memory   : 11252000 (beats 20%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
