@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum
 // Link     : https://leetcode.com/problems/car-pooling/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8352000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 14272000 (beats 81%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
