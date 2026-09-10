@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting
 // Link     : https://leetcode.com/problems/smallest-string-with-swaps/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8504000 (beats 0%)
+// Runtime  : 28 ms (beats 70%)
+// Memory   : 54300000 (beats 70%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
