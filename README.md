@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 295 Solved
+## Progress Summary: 296 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,6 +21,7 @@
 | clumsy-factorial | Clumsy Factorial | Medium | cpp | [Problem](https://leetcode.com/problems/clumsy-factorial/) | [Solution](./solutions/Medium/1006-clumsy-factorial/solution.cpp) |
 | convert-to-base-2 | Convert to Base -2 | Medium | cpp | [Problem](https://leetcode.com/problems/convert-to-base-2/) | [Solution](./solutions/Medium/1017-convert-to-base-2/solution.cpp) |
 | count-commas-in-range | Count Commas in Range | Easy | cpp | [Problem](https://leetcode.com/problems/count-commas-in-range/) | [Solution](./solutions/Easy/3870-count-commas-in-range/solution.cpp) |
+| count-nodes-equal-to-average-of-subtree | Count Nodes Equal to Average of Subtree | Medium | cpp | [Problem](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Solution](./solutions/Medium/2265-count-nodes-equal-to-average-of-subtree/solution.cpp) |
 | custom-sort-string | Custom Sort String | Medium | cpp | [Problem](https://leetcode.com/problems/custom-sort-string/) | [Solution](./solutions/Medium/0791-custom-sort-string/solution.cpp) |
 | distant-barcodes | Distant Barcodes | Medium | cpp | [Problem](https://leetcode.com/problems/distant-barcodes/) | [Solution](./solutions/Medium/1054-distant-barcodes/solution.cpp) |
 | divisor-game | Divisor Game | Easy | cpp | [Problem](https://leetcode.com/problems/divisor-game/) | [Solution](./solutions/Easy/1025-divisor-game/solution.cpp) |
