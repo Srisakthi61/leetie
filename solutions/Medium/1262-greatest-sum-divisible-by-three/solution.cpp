@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Greedy, Sorting
 // Link     : https://leetcode.com/problems/greatest-sum-divisible-by-three/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8356000 (beats 0%)
+// Runtime  : 38 ms (beats 39%)
+// Memory   : 37124000 (beats 43%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
