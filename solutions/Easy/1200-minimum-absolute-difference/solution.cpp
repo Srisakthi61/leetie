@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting
 // Link     : https://leetcode.com/problems/minimum-absolute-difference/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8284000 (beats 0%)
+// Runtime  : 18 ms (beats 31%)
+// Memory   : 36728000 (beats 46%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
