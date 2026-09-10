@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, String, Backtracking, Stack, Breadth-First Search, Sorting
 // Link     : https://leetcode.com/problems/brace-expansion-ii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8404000 (beats 0%)
+// Runtime  : 6 ms (beats 89%)
+// Memory   : 15552000 (beats 60%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
