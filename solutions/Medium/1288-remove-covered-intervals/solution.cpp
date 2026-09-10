@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Sorting
 // Link     : https://leetcode.com/problems/remove-covered-intervals/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8492000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 15068000 (beats 47%)
 // Language : cpp
 // Copyright: (c) 2026 Srisakthi61. All rights reserved.
 // Synced by: leetie
