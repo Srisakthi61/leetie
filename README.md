@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 311 Solved
+## Progress Summary: 312 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -30,6 +30,7 @@
 | find-a-peak-element-ii | Find a Peak Element II | Medium | java | [Problem](https://leetcode.com/problems/find-a-peak-element-ii/) | [Solution](./solutions/Medium/1901-find-a-peak-element-ii/solution.java) |
 | find-and-replace-in-string | Find And Replace in String | Medium | cpp | [Problem](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](./solutions/Medium/0833-find-and-replace-in-string/solution.cpp) |
 | find-k-th-smallest-pair-distance | Find K-th Smallest Pair Distance | Hard | cpp | [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](./solutions/Hard/0719-find-k-th-smallest-pair-distance/solution.cpp) |
+| find-two-non-overlapping-sub-arrays-each-with-target-sum | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium | cpp | [Problem](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Solution](./solutions/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.cpp) |
 | friends-of-appropriate-ages | Friends Of Appropriate Ages | Medium | cpp | [Problem](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Solution](./solutions/Medium/0825-friends-of-appropriate-ages/solution.cpp) |
 | greatest-sum-divisible-by-three | Greatest Sum Divisible by Three | Medium | cpp | [Problem](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [Solution](./solutions/Medium/1262-greatest-sum-divisible-by-three/solution.cpp) |
 | groups-of-special-equivalent-strings | Groups of Special-Equivalent Strings | Medium | cpp | [Problem](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](./solutions/Medium/0893-groups-of-special-equivalent-strings/solution.cpp) |
